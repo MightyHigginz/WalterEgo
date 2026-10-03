@@ -9,9 +9,16 @@ sys.path.insert(0, os.path.join(REF, "statutes"))
 import convert
 SRC = json.load(open(os.path.join(REF, "sources.json"))); STATE = os.path.join(REF, "fetched.json")
 
-def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (de-tax-suite refresh)"})
-    return urllib.request.urlopen(req, timeout=120).read()
+def get(url, tries=4):
+    import time
+    last = None
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (de-tax-suite refresh)"})
+            return urllib.request.urlopen(req, timeout=120).read()
+        except Exception as e:          # truncated downloads (IncompleteRead) and transient errors: retry
+            last = e; time.sleep(2 * (i + 1))
+    raise last
 
 def secs(text):
     parts = re.split(r"(?m)^### (§ \d+[a-z]?) .*$", text)

@@ -71,5 +71,9 @@
   "checked": "2026-10-03",
   "sha256_titles": "a3b6b8b311c6e1a7d2be447712997a66b68c28935afaeb544ca1eddb9ae3ecda"
  },
- "_last_run": "2026-10-03"
+ "_last_run": "2026-10-03",
+ "bmf-2025-12-29-ustva-vordruck-2026.txt": {
+  "checked": "2026-10-03",
+  "sha256_pdf": "82e7d63a0faec542bb184acb438eaf4ce90a2d7db067bb47f92ae13b4b17613d"
+ }
 }
