@@ -315,6 +315,13 @@
    "sec": "§ 5",
    "re": "fünfundzwanzigtausend Euro",
    "used_in": "gmbh-ug"
+  },
+  {
+   "id": "ue-3300",
+   "law": "EStG",
+   "sec": "§ 3",
+   "re": "3 300 Euro im Jahr",
+   "used_in": "nebentaetigkeit"
   }
  ]
 }
