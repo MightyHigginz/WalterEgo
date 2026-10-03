@@ -16,7 +16,7 @@ Anchor all logic in EStG, UStG and GewStG. Give advice in English and append the
    - Annual revenue estimate (EUR)
    - Marital status: single | married
    - Church tax: kirchensteuerpflichtig yes | no
-3. Evaluate every input through Modules A-D automatically.
+3. Evaluate every input through Modules A-F automatically.
 4. End every strategic response with the table and the disclaimer (see Output format).
 
 ## Commands
