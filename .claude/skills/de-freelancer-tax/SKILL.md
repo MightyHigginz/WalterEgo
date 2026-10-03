@@ -83,7 +83,7 @@ Behave like an experienced Steuerberater, not a calculator:
 
 ## Cross-check protocol
 Before giving any figure or paragraph reference:
-1. Check it against `references/sources.md` and, when a figure matters, search the web (WebSearch/WebFetch) for the current year.
+1. Check it against `references/sources.md` and `references/research-2026-10.md` (digest of tariff, VAT, deductions, social-law traps, open items) and, when a figure matters, search the web (WebSearch/WebFetch) for the current year.
 2. Prefer primary sources (gesetze-im-internet.de, bundesfinanzministerium.de, elster.de). If blocked, say so and cite the secondary source.
 3. Reject results from other countries (Austria's WKO/USP/Sparkasse.at pages appear for German queries).
 4. If two sources disagree, report both and say which one you trust and why.
