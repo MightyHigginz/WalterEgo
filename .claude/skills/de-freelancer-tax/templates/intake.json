@@ -1,0 +1,21 @@
+{
+  "_note": "Fill in, then run /prepare. Unknown = null. Fictional example values.",
+  "tax_year": 2025,
+  "person": {"name": null, "tax_id_idnr": null, "steuernummer": null, "birth_date": null,
+             "marital_status": "single", "spouse_joint_assessment": false, "church_tax": null,
+             "state": null, "children": [], "health_insurance": {"type": "GKV|PKV", "monthly_contribution": null}},
+  "activities": [
+    {"type": "freiberufler|gewerbe|employee|rental|capital|other", "description": null, "start_date": null,
+     "profit_method": "EÜR", "vat_status": "Kleinunternehmer|Regelbesteuerung", "vat_id": null,
+     "ist_versteuerung": null, "gewerbe_hebesatz_pct": null}
+  ],
+  "prior_year": {"assessment_notice_received": null, "revenue": null, "profit": null, "vat_due": null,
+                 "loss_carryforward": null, "iab_taken_in_prior_years": []},
+  "payments_in_year": {"est_advance_paid": [], "vat_advance_paid": [], "church_tax_advance": null},
+  "assets_bought": [{"date": null, "description": null, "net_cost": null, "kind": "computer|other", "business_use_pct": 100}],
+  "home_office": {"separate_room": null, "is_center_of_activity": null, "days_at_home": null, "annual_costs": null},
+  "private_deductions": {"basisrente": null, "kv_pv_basis": null, "other_insurance": null, "donations": null,
+                         "childcare": null, "craftsman_services": null, "church_tax_paid": null},
+  "documents_available": {"ledger_csv": false, "invoices": false, "bank_statements": false, "insurance_certs": false,
+                          "employer_wage_statement": false, "rental_statement": false, "broker_tax_cert": false}
+}

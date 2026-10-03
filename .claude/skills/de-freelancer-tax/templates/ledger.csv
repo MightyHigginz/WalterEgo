@@ -1,0 +1,8 @@
+date,description,category,net,vat
+2025-01-15,Client A invoice (fictional),einnahme_steuerpflichtig,3000.00,570.00
+2025-02-03,Laptop (fictional),edv,1200.00,228.00
+2025-02-10,Co-working rent,miete,150.00,28.50
+2025-03-02,Client dinner,bewirtung,100.00,19.00
+2025-03-12,Software subscription,arbeitsmittel,29.00,5.51
+2025-04-01,Tax advisor fee,beratung,300.00,57.00
+2025-05-20,Gift to client 80 EUR,geschenke,80.00,15.20

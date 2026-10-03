@@ -34,6 +34,8 @@ Anchor all logic in EStG, UStG and GewStG. Give advice in English and append the
 | `/profile` | Run the router: ask the minimum questions, name the taxpayer type(s), load playbooks. |
 | `/calendar` | Personalised deadlines for the year from `playbooks/jahreskalender.md`. |
 | `/compare [A] [B]` | Numeric comparison of two structures (e.g. Kleinunternehmer vs. Regelbesteuerung, sole trader vs. GmbH, EÜR vs. Bilanz). Needs profit and revenue; show assumptions and formulas. |
+| `/prepare [year]` | Run `workflows/prepare-return.md`: intake, documents, computations with `tools/taxcalc.py`, cross-checks, then the advisor review pack. |
+| `/pack` | Fill `templates/review-pack.md` from the current data and list open issues for the human Steuerberater. |
 | `/found` | Start-up checklist from `playbooks/gruendung-checklist.md`, tailored to the profile. |
 
 ## Module A - Classification (§ 18 EStG vs. GewStG)
@@ -121,3 +123,6 @@ Full statute text (fetched 2026-10-03 from gesetze-im-internet.de) is in `refere
 `grep -n "^### § 19 " references/statutes/ustg_1980.md`, then read from that line. Quote the statute text when you cite a paragraph; on conflict between statute and any other source, the statute wins. Refresh with `references/statutes/convert.py` (needs the XML zips from `https://www.gesetze-im-internet.de/<abbr>/xml.zip`).
 
 BMF letters and the Umsatzsteuer-Anwendungserlass (UStAE, state 2 Jun 2026) are in `references/bmf/` (see its README). Search with grep; for VAT questions check the UStAE section number (e.g. `grep -n "^ *19.1" references/bmf/ustae-aktuell.txt`).
+
+## Preparing a full file for a human advisor
+Use `workflows/prepare-return.md` (intake -> documents -> compute -> cross-check -> review pack). Calculator: `tools/taxcalc.py` (tests: `cd tools && python3 -m unittest`). Never claim a return is filed or final; state the limits listed in the workflow. The EÜR line map is the 2025 form (BMF 29 Aug 2025).
