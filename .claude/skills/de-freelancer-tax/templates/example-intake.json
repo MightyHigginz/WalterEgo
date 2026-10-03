@@ -1,0 +1,5 @@
+{"_note": "FICTIONAL example for testing only", "tax_year": 2025,
+ "person": {"name": "Max Beispiel", "marital_status": "single", "spouse_joint_assessment": false, "church_tax": "no", "state": "BE", "health_insurance": {"type": "GKV", "monthly_contribution": 420}},
+ "payments_in_year": {"est_advance_paid": [0, 0, 0, 0]},
+ "private_deductions": {"basisrente": 0, "kv_pv_basis": 5040, "other_insurance": 0, "donations": 0},
+ "documents_available": {"ledger_csv": true, "invoices": false, "bank_statements": false, "insurance_certs": false}}

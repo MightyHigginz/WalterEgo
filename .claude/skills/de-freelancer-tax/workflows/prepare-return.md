@@ -11,6 +11,15 @@ Fill `templates/intake.json` with the user (ask in small batches, most impactful
 ## Step 2 - Documents
 Request per activity: ledger/bank statements and invoices (-> `templates/ledger.csv`), asset purchases, prior assessment (Steuerbescheid), advance-payment notices, insurance certificates (KV/PV, Basisrente via Anlage AV), employer wage statement, rental statement, broker tax certificate, donation receipts.
 
+## Tools (all in `tools/`)
+| Tool | Purpose |
+| :--- | :--- |
+| `bank_import.py bank.csv ledger.csv` | bank export -> ledger with category suggestions; unmatched lines listed, never guessed |
+| `invoice_check.py invoice.json` | § 14 Abs. 4 / § 33 UStDV completeness of an invoice (fields extracted by vision/OCR) |
+| `taxcalc.py eur|ustva|est|gewst|asset` | deterministic computations |
+| `build_pack.py intake.json ledger.csv OUT [--regular-vat] [--hebesatz N]` | writes review-pack.md, eur-lines.csv, ledger-annotated.csv, citation-check.txt |
+| `cite_check.py FILE...` | every cited § / Abs. / Nr. must exist in the statute files; exit 1 on invented citations |
+
 ## Step 3 - Compute (reproducible)
 1. Categorise every ledger line with the category names in `tools/taxcalc.py` `EUR_LINES`. Unknown categories are flagged, never guessed.
 2. `python3 tools/taxcalc.py eur ledger.csv [--regular-vat]` -> EÜR lines with Zeile and Kennzahl; `ustva` for VAT; `asset` for each purchase; `gewst` for trade tax.
@@ -18,6 +27,7 @@ Request per activity: ledger/bank statements and invoices (-> `templates/ledger.
 4. Compute: Summe der Einkünfte -> minus Sonderausgaben (Basisrente, KV/PV basis, others) -> minus außergewöhnliche Belastungen -> zu versteuerndes Einkommen -> `taxcalc.py est` (+ Soli, Kirchensteuer) -> minus prepayments.
 
 ## Step 4 - Cross-check (must pass before handing over)
+- `python3 tools/cite_check.py` on the pack and on any text you wrote: zero INVALID. Quote statute wording with `cite_check.py --quote`.
 - Re-run `python3 -m unittest` in `tools/`.
 - Each rule used has a statute reference in `references/statutes/` or a BMF letter, quoted from the file.
 - Plausibility: profit vs. prior year (> ±30% needs explanation); VAT vs. turnover; private use of phone/car; round-number receipts; missing months.
