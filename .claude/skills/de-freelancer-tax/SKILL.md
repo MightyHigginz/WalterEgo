@@ -37,6 +37,7 @@ Current law (since 1 Jan 2025, **Jahressteuergesetz / Wachstumschancengesetz**),
 - Eligible if turnover in the previous year <= EUR 25,000 AND in the current year <= EUR 100,000.
 - Exceeding EUR 100,000 in the current year ends the status immediately, from the transaction that crosses the line.
 - Outcome: no VAT on invoices, no input tax deduction (**Vorsteuerabzug**); invoices must carry a Kleinunternehmer note.
+- Waiver (**Verzicht**, § 19 Abs. 3): irrevocable declaration to the Finanzamt until end of February of the second year after the tax period; binds for at least 5 calendar years; revocable only with effect from the start of a later calendar year.
 - Otherwise: **Regelbesteuerung**, 19% or 7% (**Umsatzsteuer**).
 - Note: the older limits (EUR 22,000 / EUR 50,000, gross) applied until 2024. Flag if the user cites them.
 
@@ -47,17 +48,15 @@ Based on net acquisition cost (**Anschaffungskosten**, net for regular taxpayers
 - > EUR 800 -> capitalise, depreciate per **AfA-Tabelle**, pro rata temporis by month (§ 7 EStG).
 - Computer hardware and software: useful life 1 year (BMF letter of 2021), may be written off in full regardless of price.
 
-## Module D - Home office (verified 2026)
-- **Daily flat rate (Homeoffice-Pauschale)**, § 4 Abs. 5 Satz 1 Nr. 6c EStG: EUR 6/day, max 210 days = EUR 1,260/year. For days worked at home when no separate room is deducted. Self-employed qualify too (enter in the EÜR).
-- **Separate room (häusliches Arbeitszimmer)**, § 4 Abs. 5 Satz 1 Nr. 6b EStG:
-  - Room is the centre of all professional activity (**Mittelpunkt der gesamten betrieblichen Betätigung**) -> actual costs (pro rata by floor area) OR the annual lump sum EUR 1,260 (**Jahrespauschale**).
-  - Room is not the centre, but no other workplace is available -> annual lump sum EUR 1,260 only.
-  - Daily rate and room deduction cannot be combined for the same days.
+## Module D - Home office (statute text checked 2026-10-03)
+- **Daily flat rate (Tagespauschale)**, § 4 Abs. 5 Satz 1 Nr. 6c EStG: EUR 6 for each calendar day on which the work is mainly done at home and no first place of work outside the home is visited; max EUR 1,260/year. If no other workplace is permanently available, the rate is also allowed on days with outside work. Not allowed to the extent a room deduction under Nr. 6b is taken.
+- **Separate room (häusliches Arbeitszimmer)**, § 4 Abs. 5 Satz 1 Nr. 6b EStG: costs are NOT deductible, unless the room is the centre of the whole professional activity (**Mittelpunkt der gesamten betrieblichen und beruflichen Betätigung**). If it is: actual costs, or instead the annual lump sum **Jahrespauschale** EUR 1,260, reduced by 1/12 for each full month in which the centre condition is not met.
+- A room that is not the centre -> no room deduction; use the daily rate (Nr. 6c). (Secondary sources wrongly say the lump sum applies here - the statute does not.)
 - Keep floor plan, rent/utility bills and a work-day log.
 
 ## Module E - Planning levers (legal tax planning, **Steuergestaltung**)
 Verified against secondary sources on 2026-10-03; confirm against statute/BMF before relying on figures.
-1. **Investment deduction (Investitionsabzugsbetrag), § 7g EStG** - deduct up to 50% of planned acquisition cost of movable depreciable assets before purchase; profit limit EUR 200,000; investment within 3 years; plus special depreciation (**Sonderabschreibung**) up to 40% in the year of purchase and the 4 following years. Risk: if the investment does not happen, the deduction is reversed with retroactive effect and interest (§ 233a AO).
+1. **Investment deduction (Investitionsabzugsbetrag), § 7g EStG** - deduct up to 50% of planned acquisition cost of movable depreciable assets before purchase; profit limit EUR 200,000; investment by the end of the 3rd following financial year; sum of deductions in the year and 3 prior years max EUR 200,000 per business; electronic transmission required; plus special depreciation (**Sonderabschreibung**) up to 40% in the year of purchase and the 4 following years. Risk: if the investment does not happen, the deduction is reversed with retroactive effect and interest (§ 233a AO).
 2. **Declining-balance depreciation (degressive AfA), § 7 Abs. 2 EStG** - up to 30% (max 3x straight-line rate) for movable assets acquired after 30 June 2025 and before 1 Jan 2028. Not for buildings or intangibles.
 3. **Basic pension (Basisrente / Rürup), § 10 Abs. 1 Nr. 2b EStG** - 2026 maximum EUR 30,826 single / EUR 61,652 joint, 100% deductible as special expense (**Sonderausgaben**), reduced by statutory pension contributions. Contributions are locked in until retirement - advise on liquidity first.
 4. **Trade tax credit (Gewerbesteuer-Anrechnung), § 35 EStG** - 4.0x the trade tax base amount (**Messbetrag**) is credited against income tax; with a local rate (Hebesatz) of about 400% trade tax is largely neutralised. Only for Gewerbetreibende.
@@ -66,8 +65,12 @@ Verified against secondary sources on 2026-10-03; confirm against statute/BMF be
 7. **Not applicable in Germany:** a general profit allowance (Gewinnfreibetrag) for EÜR sole proprietors. That exists in Austria; do not apply it. Search results mix the two countries.
 
 ## Module F - Other reference values (verified 2026)
+- Income tax tariff 2026 (§ 32a Abs. 1 EStG, statute text): up to EUR 12,348 = 0; EUR 12,349-17,799: (914.51 y + 1,400) y with y = (zvE - 12,348)/10,000; EUR 17,800-69,878: (173.10 z + 2,397) z + 1,034.87 with z = (zvE - 17,799)/10,000; EUR 69,879-277,825: 0.42 x - 11,135.63; from EUR 277,826: 0.45 x - 19,470.38. Joint assessment: tax on half, doubled (Abs. 5). Note: secondary sources quote wrong coefficients - always use these.
+- Advance payments (§ 37 EStG): 10 Mar, 10 Jun, 10 Sep, 10 Dec; only set at >= EUR 400/year and >= EUR 100 per date; can be adjusted until the end of the 15th month after the tax year.
+- Returns (§ 149 AO): 7 months after year-end (31 Jul); via Steuerberater until end of February of the second following year. Late-filing surcharge (§ 152 AO): 0.25% of tax per started month, minimum EUR 10; mandatory if not filed within 14 months of year-end.
+- Loss deduction (§ 10d EStG): carry-back to the 2 preceding years up to EUR 1m (EUR 2m joint); carry-forward unrestricted up to EUR 1m, above that 70% of the excess.
 - Basic allowance (**Grundfreibetrag**) 2026: EUR 12,348 single / EUR 24,696 joint (§ 32a EStG).
-- **Umsatzsteuer-Voranmeldung**: due by the 10th of the following month; one month extension with Dauerfristverlängerung (monthly filers pay a special advance of 1/11 of the prior year's VAT; apply via ELSTER). Filing interval depends on prior year's VAT: more than EUR 9,000 monthly; EUR 2,000-9,000 quarterly; below EUR 2,000 the Finanzamt may exempt. Founders have a special rule in the year of founding and the next - verify the current status for the filing year.
+- **Umsatzsteuer-Voranmeldung**: due by the 10th of the following month; one month extension with Dauerfristverlängerung (monthly filers pay a special advance of 1/11 of the prior year's VAT; apply via ELSTER). Filing interval (§ 18 Abs. 2 UStG, statute text): quarterly by default; monthly if prior-year VAT > EUR 9,000; exemption possible at <= EUR 2,000. Founders: monthly in the year of start and the next, but for 2021-2026 the expected/annualised tax decides the interval. Check the filing year.
 - **E-invoicing (E-Rechnung)**: every business must be able to receive since 1 Jan 2025. Issuing: mandatory for B2B from 1 Jan 2027 if prior-year turnover > EUR 800,000, otherwise from 1 Jan 2028. Kleinunternehmer are exempt from issuing (§ 34a UStDV).
 - **Classification of IT work:** the old rule "system software = freelance, application software = trade" is obsolete. A developer is a freelancer only if the work is engineer-like (**ähnlicher Beruf**, § 18 Abs. 1 Nr. 1 EStG) and the person has comparable training or can prove comparable knowledge (degree, or documented in-depth knowledge). Self-taught developers carry the burden of proof. A wrong classification means back-assessed trade tax, so recommend a binding ruling (**verbindliche Auskunft**, § 89 AO) or a Steuerberater check.
 
@@ -102,3 +105,7 @@ followed by this disclaimer:
 
 ## Initialization
 When first invoked, say "DE-Freelancer-Tax-v1.0 loaded", show the command table, ask for the 6 profile variables, and add the disclaimer.
+
+## Using the statutes
+Full statute text (fetched 2026-10-03 from gesetze-im-internet.de) is in `references/statutes/*.md` (estg, ustg_1980, gewstg, ao_1977, stberg, ustdv_1980, solzg_1995, estdv_1955, sgb_4, sgb_6, ksvg). The files are large - do not read them whole. Find a paragraph with:
+`grep -n "^### § 19 " references/statutes/ustg_1980.md`, then read from that line. Quote the statute text when you cite a paragraph; on conflict between statute and any other source, the statute wins. Refresh with `references/statutes/convert.py` (needs the XML zips from `https://www.gesetze-im-internet.de/<abbr>/xml.zip`).

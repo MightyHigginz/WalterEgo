@@ -1,5 +1,11 @@
 # Research digest - 2026-10-03
 
+## CORRECTIONS after reading the statute text (2026-10-03)
+Primary access opened mid-session. Checked against statute text:
+- CONFIRMED: § 19 UStG 25,000 / 100,000; § 6 Abs. 2 EStG 800 EUR; § 4 Abs. 5 Nr. 1 gifts 50 EUR, Nr. 2 Bewirtung 70%; § 7 Abs. 2 EStG 30% for assets after 30 Jun 2025 and before 1 Jan 2028; § 7g EStG 50%, EUR 200,000, 3 years, special depreciation 40% in year plus 4 years; § 10 Abs. 4 EStG 2,800 / 1,900; § 20 UStG 800,000 and freelancers; § 35 EStG 4x trade tax base; § 37 EStG dates and 400/100; § 10d EStG 1m/70%; § 147 AO 8 years for booking vouchers, 10 for books; § 9 Abs. 4a EStG 14/28.
+- WRONG in secondary sources: tariff coefficients (statute: 914.51 / 173.10 / 1,034.87 / 11,135.63 / 19,470.38); room lump sum for non-centre rooms (statute: only if centre of activity; otherwise daily rate); late-filing minimum EUR 25 (statute § 152 Abs. 5: 0.25% of tax, min EUR 10; EUR 25 applies to Feststellungserklärungen); "22 months" (statute § 152 Abs. 2: 14 months); founders quarterly VAT (statute § 18 Abs. 2: monthly in start year and next, with 2021-2026 estimation rule).
+- Still unverified from statute: electric-car 0.25% rule limit, Basisrente 2026 amount (derived annually), BFH 2026 Ist-Versteuerung ruling, BMF letters.
+
 Method: web search (secondary sources only; statute and BMF sites were blocked by the session's network policy). Every row is `(S)` = secondary source, not yet checked against the statute. Re-verify the exact wording at gesetze-im-internet.de / bundesfinanzministerium.de when access exists. "Doubt" marks items where sources were thin or looked inconsistent.
 
 ## 1. Income tax

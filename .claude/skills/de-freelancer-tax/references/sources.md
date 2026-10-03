@@ -1,6 +1,6 @@
 # Sources for DE-Freelancer-Tax
 
-Last cross-check: 2026-10-03. Primary sites were blocked by the cloud session proxy, so figures marked (S) come from secondary sources only.
+Last cross-check: 2026-10-03. Primary access (gesetze-im-internet.de, bundesfinanzministerium.de, bundesfinanzhof.de, elster.de) was opened mid-session. Statute text is in `statutes/`; BMF letters not yet pulled. Rows marked (S) are secondary only; see research-2026-10.md for corrections.
 
 ## Primary (use when reachable)
 - Statutes: https://www.gesetze-im-internet.de (EStG, UStG, UStDV, GewStG, AO, StBerG)
