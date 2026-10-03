@@ -14,7 +14,7 @@ def txt(e):
     t=''.join(out)
     t=re.sub(r'[ \t]+',' ',t); t=re.sub(r'\n\s*\n+','\n',t)
     return t.strip()
-for z in sorted(glob.glob('_raw/*.zip')):
+def convert_zip(z, stamp='fetched'):
     name=os.path.basename(z)[:-4]
     zf=zipfile.ZipFile(z)
     x=[n for n in zf.namelist() if n.endswith('.xml')][0]
@@ -26,7 +26,7 @@ for z in sorted(glob.glob('_raw/*.zip')):
         if m is None: continue
         jur=m.findtext('jurabk') or ''
         if first:
-            lines.append(f"# {m.findtext('langue') or jur} ({jur})\nSource: https://www.gesetze-im-internet.de/{name}/ (XML export, fetched 2026-10-03)\n")
+            lines.append(f"# {m.findtext('langue') or jur} ({jur})\nSource: https://www.gesetze-im-internet.de/{name}/ (XML export, {stamp})\n")
             first=False
         enb=m.findtext('enbez') or ''
         tit=m.findtext('titel') or ''
@@ -38,5 +38,10 @@ for z in sorted(glob.glob('_raw/*.zip')):
             continue
         if not enb and not b: continue
         lines.append(f"\n### {enb} {tit}\n{b}\n")
-    open(name+'.md','w').write('\n'.join(lines))
-    print(name, len('\n'.join(lines)))
+    return name, '\n'.join(lines)
+
+if __name__=='__main__':
+    import datetime
+    for z in sorted(glob.glob('_raw/*.zip')):
+        n,t=convert_zip(z, 'fetched '+datetime.date.today().isoformat())
+        open(n+'.md','w').write(t); print(n,len(t))

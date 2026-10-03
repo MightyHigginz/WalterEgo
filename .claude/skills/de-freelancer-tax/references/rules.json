@@ -1,0 +1,320 @@
+{
+ "_note": "Canaries: each rule the skill relies on, with the statute section and a regex that must match. If the law changes, check_rules.py fails and the rule must be reviewed.",
+ "rules": [
+  {
+   "id": "kleinunt-prev",
+   "law": "UStG",
+   "sec": "§ 19",
+   "re": "25 000 Euro nicht überschritten",
+   "used_in": "Module B, kleinunternehmer.md"
+  },
+  {
+   "id": "kleinunt-curr",
+   "law": "UStG",
+   "sec": "§ 19",
+   "re": "100 000 Euro nicht überschreitet",
+   "used_in": "Module B"
+  },
+  {
+   "id": "kleinunt-waiver",
+   "law": "UStG",
+   "sec": "§ 19",
+   "re": "mindestens für fünf Kalenderjahre",
+   "used_in": "Module B"
+  },
+  {
+   "id": "ist-vers-limit",
+   "law": "UStG",
+   "sec": "§ 20",
+   "re": "800 000 Euro",
+   "used_in": "Module F, gewerbetreibende.md"
+  },
+  {
+   "id": "ist-vers-freelancer",
+   "law": "UStG",
+   "sec": "§ 20",
+   "re": "freien Berufs",
+   "used_in": "freiberufler.md"
+  },
+  {
+   "id": "ustva-9000",
+   "law": "UStG",
+   "sec": "§ 18",
+   "re": "mehr als 9 000 Euro",
+   "used_in": "Module F"
+  },
+  {
+   "id": "ustva-2000",
+   "law": "UStG",
+   "sec": "§ 18",
+   "re": "nicht mehr als 2 000 Euro",
+   "used_in": "Module F"
+  },
+  {
+   "id": "gwg-800",
+   "law": "EStG",
+   "sec": "§ 6",
+   "re": "800 Euro nicht übersteigen",
+   "used_in": "Module C"
+  },
+  {
+   "id": "ecar-quarter",
+   "law": "EStG",
+   "sec": "§ 6",
+   "re": "nur zu einem Viertel anzusetzen.{0,200}100 000 Euro",
+   "used_in": "SKILL Module E"
+  },
+  {
+   "id": "gifts-50",
+   "law": "EStG",
+   "sec": "§ 4",
+   "re": "insgesamt 50 Euro nicht übersteigen",
+   "used_in": "taxcalc PREF"
+  },
+  {
+   "id": "bewirtung-70",
+   "law": "EStG",
+   "sec": "§ 4",
+   "re": "70 Prozent der Aufwendungen",
+   "used_in": "taxcalc PREF"
+  },
+  {
+   "id": "homeoffice-day",
+   "law": "EStG",
+   "sec": "§ 4",
+   "re": "6 Euro \\(Tagespauschale\\), höchstens 1 260 Euro",
+   "used_in": "Module D"
+  },
+  {
+   "id": "arbeitszimmer-lump",
+   "law": "EStG",
+   "sec": "§ 4",
+   "re": "1 260 Euro \\(Jahrespauschale\\)",
+   "used_in": "Module D"
+  },
+  {
+   "id": "iab",
+   "law": "EStG",
+   "sec": "§ 7g",
+   "re": "bis zu 50 Prozent der voraussichtlichen",
+   "used_in": "Module E"
+  },
+  {
+   "id": "iab-profit",
+   "law": "EStG",
+   "sec": "§ 7g",
+   "re": "200 000 Euro nicht überschreitet",
+   "used_in": "Module E"
+  },
+  {
+   "id": "sonderafa-40",
+   "law": "EStG",
+   "sec": "§ 7g",
+   "re": "bis zu insgesamt 40 Prozent",
+   "used_in": "Module E"
+  },
+  {
+   "id": "degr-afa-dates",
+   "law": "EStG",
+   "sec": "§ 7",
+   "re": "nach dem 30. Juni 2025 und vor dem 1. Januar 2028 angeschafft",
+   "used_in": "Module E"
+  },
+  {
+   "id": "degr-afa-30",
+   "law": "EStG",
+   "sec": "§ 7",
+   "re": "Prozentsatz darf höchstens das Dreifache.{0,200}30 Prozent nicht übersteigen",
+   "used_in": "Module E"
+  },
+  {
+   "id": "ecar-75",
+   "law": "EStG",
+   "sec": "§ 7",
+   "re": "im Jahr der Anschaffung 75 Prozent",
+   "used_in": "Module E"
+  },
+  {
+   "id": "tariff-gfb",
+   "law": "EStG",
+   "sec": "§ 32a",
+   "re": "bis 12 348 Euro \\(Grundfreibetrag\\)",
+   "used_in": "taxcalc TARIFF[2026]"
+  },
+  {
+   "id": "tariff-z2",
+   "law": "EStG",
+   "sec": "§ 32a",
+   "re": "914,51",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "tariff-z3",
+   "law": "EStG",
+   "sec": "§ 32a",
+   "re": "173,10.{0,40}2 397.{0,40}1 034,87",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "tariff-z4",
+   "law": "EStG",
+   "sec": "§ 32a",
+   "re": "0,42 • x – 11 135,63",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "tariff-z5",
+   "law": "EStG",
+   "sec": "§ 32a",
+   "re": "0,45 • x – 19 470,38",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "tariff-bounds",
+   "law": "EStG",
+   "sec": "§ 32a",
+   "re": "17 799 Euro.{0,200}69 878 Euro.{0,200}277 825 Euro",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "gewst-credit",
+   "law": "EStG",
+   "sec": "§ 35",
+   "re": "um das Vierfache",
+   "used_in": "Module E"
+  },
+  {
+   "id": "est-prepay",
+   "law": "EStG",
+   "sec": "§ 37",
+   "re": "mindestens 400 Euro im Kalenderjahr und mindestens 100 Euro",
+   "used_in": "Module F"
+  },
+  {
+   "id": "side-410",
+   "law": "EStG",
+   "sec": "§ 46",
+   "re": "mehr als 410 Euro beträgt",
+   "used_in": "nebentaetigkeit"
+  },
+  {
+   "id": "sparer",
+   "law": "EStG",
+   "sec": "§ 20",
+   "re": "1 000 Euro abzuziehen \\(Sparer-Pauschbetrag\\)",
+   "used_in": "kapital-krypto"
+  },
+  {
+   "id": "private-sale",
+   "law": "EStG",
+   "sec": "§ 23",
+   "re": "weniger als 1 000 Euro",
+   "used_in": "kapital-krypto"
+  },
+  {
+   "id": "vorsorge-2800",
+   "law": "EStG",
+   "sec": "§ 10",
+   "re": "2 800 Euro abgezogen",
+   "used_in": "Module E"
+  },
+  {
+   "id": "verlust",
+   "law": "EStG",
+   "sec": "§ 10d",
+   "re": "bis zu 70 Prozent des 1 Million Euro",
+   "used_in": "Module F"
+  },
+  {
+   "id": "ue-pauschale",
+   "law": "EStG",
+   "sec": "§ 3",
+   "re": "960 Euro im Jahr",
+   "used_in": "nebentaetigkeit"
+  },
+  {
+   "id": "meals-14-28",
+   "law": "EStG",
+   "sec": "§ 9",
+   "re": "28 Euro für jeden Kalendertag.{0,2000}14 Euro für den Kalendertag",
+   "used_in": "research digest"
+  },
+  {
+   "id": "gewst-allow",
+   "law": "GewStG",
+   "sec": "§ 11",
+   "re": "Freibetrag in Höhe von 24 500 Euro",
+   "used_in": "gewerbetreibende"
+  },
+  {
+   "id": "gewst-rate",
+   "law": "GewStG",
+   "sec": "§ 11",
+   "re": "beträgt 3,5 Prozent",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "bookkeeping",
+   "law": "AO",
+   "sec": "§ 141",
+   "re": "800 000 Euro.{0,300}80 000 Euro",
+   "used_in": "gewerbetreibende"
+  },
+  {
+   "id": "late-fee",
+   "law": "AO",
+   "sec": "§ 152",
+   "re": "0,25 Prozent.{0,60}mindestens jedoch 10 Euro",
+   "used_in": "Module F"
+  },
+  {
+   "id": "late-14m",
+   "law": "AO",
+   "sec": "§ 152",
+   "re": "nicht binnen 14 Monaten",
+   "used_in": "Module F"
+  },
+  {
+   "id": "retention",
+   "law": "AO",
+   "sec": "§ 147",
+   "re": "Nummer 4 aufgeführten Unterlagen acht Jahre",
+   "used_in": "gruendung-checklist"
+  },
+  {
+   "id": "soli-freigrenze",
+   "law": "SolzG",
+   "sec": "§ 3",
+   "re": "20 350 Euro",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "soli-rate",
+   "law": "SolzG",
+   "sec": "§ 4",
+   "re": "5,5 Prozent.{0,300}11,9 Prozent",
+   "used_in": "taxcalc"
+  },
+  {
+   "id": "kst-15",
+   "law": "KStG",
+   "sec": "§ 23",
+   "re": "bis 2027 15 Prozent",
+   "used_in": "gmbh-ug"
+  },
+  {
+   "id": "kst-10",
+   "law": "KStG",
+   "sec": "§ 23",
+   "re": "ab 2032 10 Prozent",
+   "used_in": "gmbh-ug"
+  },
+  {
+   "id": "gmbh-capital",
+   "law": "GmbHG",
+   "sec": "§ 5",
+   "re": "fünfundzwanzigtausend Euro",
+   "used_in": "gmbh-ug"
+  }
+ ]
+}

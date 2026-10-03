@@ -1,0 +1,75 @@
+{
+ "estg": {
+  "checked": "2026-10-03",
+  "sha256_sections": "9ce019996234190c199aa2611cbc4100cc796793b484f4681337fdba34e6a096"
+ },
+ "ustg_1980": {
+  "checked": "2026-10-03",
+  "sha256_sections": "bb7f01f87cc93e786fb02294b736af74e51011a82b31fda309df06062be5067f"
+ },
+ "gewstg": {
+  "checked": "2026-10-03",
+  "sha256_sections": "80a8d24f3659dd27b7e9618ae9c2d2531e14cb63b8634dce4131d339e9d6a4e6"
+ },
+ "ao_1977": {
+  "checked": "2026-10-03",
+  "sha256_sections": "b078890a2500f417618cff74bf7c276ced1a2496eb8e8b52d3d65f2b131ac182"
+ },
+ "stberg": {
+  "checked": "2026-10-03",
+  "sha256_sections": "d8cdbed5f0af830ccc37ccdb91be40d26e0f17f8c059d925eaf89501a6dc6a68"
+ },
+ "ustdv_1980": {
+  "checked": "2026-10-03",
+  "sha256_sections": "75e69e0e2ac04e9f19fe7dde496c18658163b1c32a7682f399c539a9eb09be6c"
+ },
+ "solzg_1995": {
+  "checked": "2026-10-03",
+  "sha256_sections": "346df89ae6b9d68ea7fb28c86f65e6eda9b87b4055cb49ea4e652ab57b82b8f1"
+ },
+ "estdv_1955": {
+  "checked": "2026-10-03",
+  "sha256_sections": "a81e9cc83cd5d2b53e7a28a14dc1f46681c4e8e1f96b644f3d4b0002a4041bef"
+ },
+ "kstg_1977": {
+  "checked": "2026-10-03",
+  "sha256_sections": "4461c26d43e975cd7d49a66e6d5909f91858ac02ee73060b245bea38918d1848"
+ },
+ "gmbhg": {
+  "checked": "2026-10-03",
+  "sha256_sections": "0b9d00e1fe366af2d84741386799150d324c8afdd24033c23545897dedbf3fa6"
+ },
+ "ksvg": {
+  "checked": "2026-10-03",
+  "sha256_sections": "90036ff100d2d55199b684e335bac85496e1c98fc4fc36f45827ba97686e3967"
+ },
+ "sgb_4": {
+  "checked": "2026-10-03",
+  "sha256_sections": "9a6a42616a881d25e90086e971cc5f1822babcb6c86797be6e5cbb0a2ad1d163"
+ },
+ "sgb_6": {
+  "checked": "2026-10-03",
+  "sha256_sections": "a65f75c083a43bbd1f3a0b42a6a5dfbbdb4bb2039f1ac9bca34a5fc58ebfac71"
+ },
+ "ustae-aktuell.txt": {
+  "checked": "2026-10-03",
+  "sha256_pdf": "ab78ca30d2e9573755053f3b2d2a96f0987b26953176c1ade54a44f5c152aa5f"
+ },
+ "bmf-2025-03-18-kleinunternehmer.txt": {
+  "checked": "2026-10-03",
+  "sha256_pdf": "627921c9261891e4727bc07a7c5d24df6ebff2e1793ad1aa7019445f1dc5607d"
+ },
+ "bmf-2025-10-15-e-rechnung.txt": {
+  "checked": "2026-10-03",
+  "sha256_pdf": "b47bd1b6f3f8386774a3d37976a385b3443537bc2a2891b64d2eb58cfee16d7f"
+ },
+ "https://www.bundesfinanzministerium.de/Web/DE/Service/Publikationen/BMF_Schreiben/bmf_schreiben.html": {
+  "checked": "2026-10-03",
+  "sha256_titles": "35fbdb2b8ec6ca69e7e746122d2136ba0671d04557b2011c1d97a212da79633a"
+ },
+ "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Umsatzsteuer/BMF_Schreiben_Allgemeines/bmf_schreiben_allgemeines.html": {
+  "checked": "2026-10-03",
+  "sha256_titles": "a3b6b8b311c6e1a7d2be447712997a66b68c28935afaeb544ca1eddb9ae3ecda"
+ },
+ "_last_run": "2026-10-03"
+}

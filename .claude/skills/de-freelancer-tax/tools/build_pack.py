@@ -32,8 +32,14 @@ def main():
         w = csv.writer(f, delimiter=";"); w.writerow(["Zeile_Kz", "EUR"])
         for k, v in eur["zeilen"].items(): w.writerow([k, f"{v:.2f}"])
         w.writerow(["Z23 Summe Betriebseinnahmen", f"{eur['betriebseinnahmen_z23']:.2f}"]); w.writerow(["Z75 Summe Betriebsausgaben", f"{eur['betriebsausgaben_z75']:.2f}"]); w.writerow(["Gewinn", f"{eur['gewinn']:.2f}"])
+    fj = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "references", "fetched.json")
+    last = json.load(open(fj)).get("_last_run") if os.path.exists(fj) else None
+    import datetime
+    age = (datetime.date.today() - datetime.date.fromisoformat(last)).days if last else None
+    stale = "SOURCES NEVER REFRESHED" if age is None else (f"SOURCES STALE ({age} days old) - run tools/refresh.py" if age > 45 else f"legal sources refreshed {last} ({age} days ago)")
+    if age is None or age > 45: eur["hinweise"].insert(0, stale)
     md = [f"# Steuerberater review pack - {p.get('name') or '[name]'}, tax year {year}",
-          "", "Draft prepared with the DE-Tax-Suite. **Nothing has been filed.** All figures are estimates for professional review.", "",
+          "", "Draft prepared with the DE-Tax-Suite. **Nothing has been filed.** All figures are estimates for professional review.", f"Source status: {stale}.", "",
           "## 1. Results at a glance", "| Item | EUR | Source |", "| :--- | ---: | :--- |",
           f"| Betriebseinnahmen (EÜR Z23) | {money(eur['betriebseinnahmen_z23'])} | ledger, taxcalc.eur_from_ledger |",
           f"| Betriebsausgaben (EÜR Z75) | {money(eur['betriebsausgaben_z75'])} | same |",

@@ -23,3 +23,16 @@ class Pipeline(unittest.TestCase):
         self.assertEqual(rc, 0); self.assertTrue(os.path.exists(os.path.join(d, "o", "review-pack.md")))
 
 if __name__ == "__main__": unittest.main()
+
+class Canary(unittest.TestCase):
+    def test_rules_match_current_statutes(self):
+        import check_rules; self.assertEqual([r["id"] for r in check_rules.run()], [])
+    def test_canary_detects_law_change(self):
+        import check_rules, cite_check as c
+        c.sections("UStG")  # load cache
+        orig = c._cache["UStG"]["§ 19"]
+        try:
+            c._cache["UStG"]["§ 19"] = __import__("re").sub(r"25\s000", "30 000", orig)
+            self.assertIn("kleinunt-prev", [r["id"] for r in check_rules.run()])
+        finally:
+            c._cache["UStG"]["§ 19"] = orig

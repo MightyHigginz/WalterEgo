@@ -126,3 +126,11 @@ BMF letters and the Umsatzsteuer-Anwendungserlass (UStAE, state 2 Jun 2026) are 
 
 ## Preparing a full file for a human advisor
 Use `workflows/prepare-return.md` (intake -> documents -> compute -> cross-check -> review pack). Calculator: `tools/taxcalc.py` (tests: `cd tools && python3 -m unittest`). Never claim a return is filed or final; state the limits listed in the workflow. The EÜR line map is the 2025 form (BMF 29 Aug 2025).
+
+## Keeping the law current
+- `tools/refresh.py` re-downloads statutes (gesetze-im-internet.de) and key BMF texts, reports changed paragraphs; `--apply` writes them and stamps `references/fetched.json`.
+- `tools/check_rules.py` + `references/rules.json`: 45 canary rules (every figure the suite relies on, with its paragraph). A mismatch means the law or our reading changed - review the rule, the playbook and the calculator constants.
+- `.github/workflows/refresh-tax-sources.yml` runs weekly (and early January), opens a PR with the diff. Merge only after review.
+- `build_pack.py` stamps the source date in every pack and warns when sources are older than 45 days.
+- Not automatable (checked by hand each January, list in `references/sources.json`): new forms, Basisrente cap, health-insurance ceilings, pending bills, court rulings.
+- Rule for answers: if a user's tax year differs from the year the sources cover, say so.
