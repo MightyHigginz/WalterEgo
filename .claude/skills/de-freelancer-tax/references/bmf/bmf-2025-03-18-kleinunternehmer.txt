@@ -1,0 +1,999 @@
+    Bundesministerium der Finanzen, 11016 Berlin
+                                                                                                             Wilhelmstraße 97
+    Nur per E-Mail                                                                                           10117 Berlin
+                                                                                                             Tel. +49 30 18 682 - 0
+    Oberste Finanzbehörden
+                                                                                                             poststelle@bmf.bund.de
+    der Länder
+                                                                                                             www.bundesfinanzministerium.de
+                                                                                                             18. März 2025
+                                                                                                             - E-Mail-Verteiler U 1 –
+                                                                                                             - E-Mail-Verteiler U 2 -
+
+
+
+    Sonderregelung für Kleinunternehmer;
+    Neufassung des § 19 UStG und Neueinführung des § 19a UStG durch das Jahressteuergesetz
+    2024 (JStG 2024) zum 1. Januar 2025
+    GZ: III C 3 - S 7360/00027/044/105
+    DOK: COO.7005.100.2.11558647
+    Seite 1 von 21
+    (bei Antwort bitte GZ und DOK angeben)
+
+
+
+
+    Inhaltsverzeichnis
+    I.         Allgemeines ................................................................................................................... 1
+    II.        Änderungen im Umsatzsteuer-Anwendungserlass.................................................... 2
+    Anwendungsregelungen......................................................................................................... 20
+    Schlussbestimmung ................................................................................................................ 21
+
+
+    Nach Erörterung mit den obersten Finanzbehörden der Länder gilt Folgendes:
+
+    I.     Allgemeines
+
+1   Durch Artikel 25 Nr. 17 und Nr. 18 des Jahressteuergesetzes 2024 (Jahressteuergesetz 2024 -
+    JStG 2024) vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) wurden zum 1. Januar 2025 § 19 UStG
+    „Besteuerung der Kleinunternehmer“ neu gefasst und § 19a UStG „Besonderes Meldeverfahren
+    für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat“ neu eingeführt.
+    Folgeänderungen wurden auch in §§ 15, 15a, 20, 24 und 27a UStG vorgenommen, zudem wurde
+    § 34a UStDV neu eingeführt.
+
+2   Die Neufassung des § 19 UStG und die Neueinführung des § 19a UStG dienen der Umsetzung der
+    Richtlinie (EU) 2020/285 des Rates vom 18. Februar 2020 (RL 2020/285).
+    Seite 2 von 21
+
+3   Mit der Änderung des § 19 UStG wird die Sonderregelung für Kleinunternehmer neu konzipiert.
+    Die Umsätze des Kleinunternehmers werden nunmehr von der Umsatzsteuer befreit. Die
+    Neuregelung ermöglicht es zudem auch im übrigen Gemeinschaftsgebiet ansässigen
+    Unternehmern, die Kleinunternehmerregelung in Deutschland anzuwenden.
+
+4   Mit der Einführung des neuen § 19a UStG wird das besondere Meldeverfahren geregelt, mit dem
+    es inländischen Unternehmern ermöglicht wird, auch in anderen Mitgliedstaaten die (dortige)
+    Kleinunternehmerregelung anzuwenden.
+
+5   Folge der Neuregelung, dass Kleinunternehmer zukünftig steuerfreie Umsätze erbringen, ist
+    auch, dass ein dennoch in einer Rechnung ausgewiesener Steuerbetrag nicht mehr nach § 14c
+    Absatz 2 UStG (unberechtigter Steuerausweis) geschuldet wird. Vielmehr wird der ausgewiesene
+    Steuerbetrag in diesen Fällen - wie bei anderen Rechnungen über steuerfreie Leistungen - unter
+    den übrigen Voraussetzungen nach § 14c Absatz 1 UStG (unrichtiger Steuerausweis) geschuldet.
+    Die Regelungen im BMF-Schreiben vom 27. Februar 2024, BStBl I S. 361, Rn. 5, sind weiterhin mit
+    der Maßgabe anzuwenden, dass bei einem Steuerausweis durch einen Kleinunternehmer künftig
+    keine Steuer nach § 14c Absatz 1 UStG entsteht, wenn dieser eine Leistung (Lieferung oder
+    sonstige Leistung) tatsächlich ausführt und hierüber eine Rechnung mit einem unrichtigen
+    Steuerausweis an einen Endverbraucher stellt.
+
+6   Ein vor dem 1. Januar 2025 erklärter Verzicht auf die Anwendung des § 19 Absatz 1 UStG bindet
+    den Unternehmer auch für die Zeit nach dem 1. Januar 2025 weiterhin für insgesamt mindestens
+    fünf Kalenderjahre (§ 19 Absatz 3 Satz 3 UStG). Die Fünfjahresfrist ist vom Beginn des ersten
+    Kalenderjahres an zu berechnen, für das die abgegebene Erklärung gilt.
+
+7   Durch Artikel 23 Nr. 5 des Gesetzes zur Stärkung von Wachstumschancen, Investitionen und
+    Innovation sowie Steuervereinfachung und Steuerfairness (Wachstumschancengesetz) vom
+    27. März 2024 (BGBl. 2024 I Nr. 108) wurde § 19 Absatz 1 Satz 4 und Absatz 2 UStG geändert; diese
+    Änderung wurde durch das JStG 2024 mit Wirkung zum 1. Januar 2025 ersetzt.
+
+    II. Änderungen im Umsatzsteuer-Anwendungserlass
+
+8   Der Umsatzsteuer-Anwendungserlass vom 1. Oktober 2010, BStBl I S. 846, der zuletzt durch das
+    BMF-Schreiben vom 13. März 2025 - III C 2 – S 7419/00016/021/023 (COO.7005.100.2.11465232),
+    BStBl I Seite xxx, geändert worden ist, wird wie folgt geändert:
+
+
+    1.   Die Inhaltsübersicht wird wie folgt geändert:
+
+         a)   Nach der Angabe „14.7. Fahrausweise als Rechnungen“ wird die Angabe
+              „14.7a. Rechnungen von Kleinunternehmern“ eingefügt.
+Seite 3 von 21
+
+     b)   Die Angabe „19.1. Nichterhebung der Steuer“ wird durch die Angabe
+          „19.1. Steuerbefreiung für inländische Kleinunternehmer“ ersetzt.
+
+     c)   Die Angabe „19.2. Verzicht auf die Anwendung des § 19 Abs. 1 UStG“ wird durch die
+          Angabe „19.2. Gesamtumsatz“ ersetzt.
+
+     d)   Die Angabe „19.3. Gesamtumsatz“ wird durch die Angabe „19.3. Verzicht auf die
+          Anwendung des § 19 Abs. 1 UStG durch inländische Kleinunternehmer“ ersetzt.
+
+     e)   Die Angabe „19.4. Verhältnis des § 19 zu § 24 UStG“ wird durch die Angabe
+          „19.4. Steuerbefreiung für im übrigen Gemeinschaftsgebiet ansässige Unternehmer“
+          ersetzt.
+
+     f)   Die Angabe „19.5. Wechsel der Besteuerungsform“ wird durch die Angabe
+          „19.5. Verzicht auf die Anwendung des § 19 Abs. 4 UStG durch im übrigen
+          Gemeinschaftsgebiet ansässige Unternehmer“ ersetzt.
+
+     g)   Nach der Angabe „19.5. Verzicht auf die Anwendung des § 19 Abs. 4 UStG durch im
+          übrigen Gemeinschaftsgebiet ansässige Unternehmer“ werden die Angaben
+          „19.6. Verhältnis des § 19 zu § 24 UStG“, „19.7. Wechsel der Besteuerungsform“,
+          „19a.1. Teilnahme am besonderen Meldeverfahren“, „19a.2. Beendigung der
+          Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat“,
+          „19a.3. Umsatzmeldung“ und „19a.4. Überschreitung des Jahresumsatzes im
+          Gemeinschaftsgebiet“ eingefügt.
+
+2.   Im Abkürzungsverzeichnis wird nach der Angabe „KStR = Körperschaftsteuer-Richtlinien“
+     die Angabe „KU-IdNr. = Kleinunternehmer-Identifikationsnummer“ eingefügt.
+
+3.   Abschnitt 1a.1 Abs. 2 Satz 2 Buchstabe b wird gestrichen.
+
+4.   Abschnitt 3.15 Abs. 3 Beispiel Satz 1 wird wie folgt gefasst:
+
+     „1Der Bauunternehmer G besorgt für den Bauherrn B die sonstige Leistung des Handwerkers
+     C, dessen Umsätze nach § 19 UStG steuerfrei sind.“
+
+5.   Abschnitt 3a.2 Abs. 9 Satz 3 wird wie folgt gefasst:
+
+     „3Satz 2 gilt entsprechend für einen Unternehmer,
+     – der nur steuerfreie Umsätze ausführt, die zum Ausschluss vom Vorsteuerabzug führen
+         oder
+Seite 4 von 21
+
+     –   der die Leistung zur Ausführung von Umsätzen verwendet, für die die Steuer nach den
+         Durchschnittssätzen des § 24 UStG festgesetzt wird,
+     und der weder zur Besteuerung seiner innergemeinschaftlichen Erwerbe verpflichtet ist, weil
+     er die Erwerbsschwelle nicht überschreitet, noch zur Erwerbsbesteuerung nach § 1a Abs. 4
+     UStG optiert hat.“
+
+6.   In Abschnitt 3a.9a Abs. 1 Satz 4 wird der erste Klammerzusatz wie folgt gefasst:
+
+     „(§ 18 Abs. 3 und 4 UStG)“.
+
+7.   In Abschnitt 4.3.5 Abs. 1 Satz 2 wird die Angabe „§ 15 Abs. 3 Nr. 1 Buchstabe b und Nr. 2
+     Buchstabe b UStG“ durch die Angabe „§ 15 Abs. 3 Satz 1 Nr. 1 Buchstabe b und Nr. 2
+     Buchstabe b UStG“ ersetzt.
+
+8.   Abschnitt 4a.2 Abs. 2 Satz 3 wird wie folgt gefasst:
+
+     „3Ausgeschlossen ist die Vergütung der Steuer außerdem in den Fällen eines unberechtigten
+     Steuerausweises nach § 14c Abs. 2 UStG, z. B. bei Lieferungen durch Privatpersonen.“
+
+9.   Abschnitt 6a.1 wird wie folgt geändert:
+
+     a)   In Absatz 3 Satz 2 wird die Angabe „§ 19 Abs. 2 UStG“ durch die Angabe „§ 19 Abs. 3
+          UStG“ sowie die Angabe im Klammerzusatz „§ 19 Abs. 1 Satz 4,“ durch die Angabe „§ 19
+          Abs. 1 Satz 2,“ ersetzt.
+
+     b)   In Absatz 11 Satz 4 wird die Angabe „um einen Kleinunternehmer,“ gestrichen.
+
+     c)   In Absatz 16 Satz 2 wird die Angabe „Kleinunternehmer,“ gestrichen.
+
+10. In Abschnitt 9.1 Abs. 2 Satz 1 Klammerzusatz wird die Angabe „§ 19 Abs. 1 Satz 4 UStG“
+     durch die Angabe „§ 19 Abs. 1 Satz 2 UStG“ ersetzt.
+
+11. Abschnitt 9.2 Abs. 2 Satz 3 wird wie folgt gefasst:
+
+     „3Dasselbe gilt, wenn der Leistungsempfänger ein Unternehmer ist, dessen Leistungen nach
+     § 19 UStG steuerfrei sind.“
+
+12. Abschnitt 12.9 wird wie folgt geändert:
+
+     a)   Absatz 11 wird wie folgt geändert:
+
+          aa) In Satz 2 wird die Angabe „Abschnitt 19.3 Abs. 2 Sätze 4 und 5“ durch die Angabe
+              „Abschnitt 19.2 Abs. 2 Sätze 4 und 5“ ersetzt.
+Seite 5 von 21
+
+         bb) In Satz 6 wird die Angabe „§ 19 Abs. 3 UStG“ durch die Angabe „§ 19 Abs. 2 UStG“
+             ersetzt.
+
+    b)   In Absatz 13 Satz 5 wird die Angabe „§ 19 Abs. 3 UStG“ durch die Angabe „§ 19 Abs. 2
+         UStG“ und die Angabe „22.000 €“ durch die Angabe „25.000 €“ ersetzt.
+
+13. Abschnitt 13b.3 wird wie folgt geändert:
+
+    a)   Absatz 2 wird wie folgt geändert:
+
+         aa) Nach Satz 1 wird folgender Satz 2 eingefügt:
+
+              „2Dies gilt unabhängig davon, ob der Leistungsempfänger Kleinunternehmer ist
+              und die von ihm nachhaltig erbrachten Bauleistungen daher nach § 19 Abs. 1
+              oder 4 UStG oder nach einer entsprechenden Vorschrift in einem anderen
+              Mitgliedstaat steuerfrei sind.“
+
+         bb) Die bisherigen Sätze 2 und 3 werden die neuen Sätze 3 und 4.
+
+    b)   In Absatz 3 Satz 4 wird die Angabe „Absatz 2 Satz 3“ durch die Angabe „Absatz 2 Satz 4“
+         ersetzt.
+
+14. Abschnitt 14.1 Abs. 3 Satz 4 wird wie folgt gefasst:
+
+    „4Die Verpflichtung zur Erteilung einer Rechnung bei steuerpflichtigen Werklieferungen oder
+    sonstigen Leistungen im Zusammenhang mit einem Grundstück gilt auch für Land- und
+    Forstwirte, die die Durchschnittssatzbesteuerung nach § 24 UStG anwenden.“
+
+15. Abschnitt 14.3 Abs. 1 Satz 4 wird wie folgt gefasst:
+
+    „4Eine Gutschrift kann auch ausgestellt werden, wenn über steuerfreie Umsätze abgerechnet
+    wird.“
+
+16. Abschnitt 14.5 Abs. 8 Satz 1 erster Spiegelstrich wird gestrichen.
+
+17. Nach Abschnitt 14.7 wird folgender Abschnitt 14.7a eingefügt:
+
+                          „14.7a. Rechnungen von Kleinunternehmern
+
+      (1) 1Unternehmer, die die Steuerbefreiung für Kleinunternehmer nach § 19 Abs. 1 UStG
+    anwenden, können vereinfachte Rechnungen ausstellen. 2Diese müssen abweichend von
+    §§ 14, 14a UStG nur die in § 34a UStDV aufgeführten Angaben enthalten. 3Nach § 34a Satz 1
+    Nr. 5 UStDV muss dabei darauf hingewiesen werden, dass für die Lieferung oder sonstige
+    Leistung die Steuerbefreiung für Kleinunternehmer gilt (§ 19 UStG). 4Eine Angabe in
+Seite 6 von 21
+
+    umgangssprachlicher Form ist ausreichend (z. B. „steuerfreier Kleinunternehmer“), wenn
+    sie die Steuerfreiheit für Kleinunternehmer eindeutig bezeichnet.
+      (2) 1Soweit ein Kleinunternehmer eine Rechnung im Sinne von § 33 UStDV
+    (Kleinbetragsrechnungen) oder § 34 UStDV (Fahrausweise) ausstellt, braucht diese
+    Rechnung nur die dort aufgeführten Angaben zu enthalten (§ 34a Satz 2 UStDV). 2Auch im
+    Fall einer Kleinbetragsrechnung muss ein Hinweis auf die Steuerbefreiung für
+    Kleinunternehmer aufgenommen werden (§ 33 Satz 1 Nr. 4 UStDV). 3Im Fall eines
+    Fahrausweises gilt der Nichtausweis des angewandten Steuersatzes als Ausweis des
+    ermäßigten Steuersatzes nach § 12 Abs. 2 Nr. 10 UStG (§ 34 Abs. 1 Nr. 4 UStDV). 4Weist der
+    Kleinunternehmer in einem Fahrausweis nicht gemäß Absatz 1 auf die Steuerbefreiung
+    hin, schuldet er daher unter den übrigen Voraussetzungen die Steuer nach dem ermäßigten
+    Steuersatz als Steuerausweis nach § 14c Abs. 1 UStG (vgl. Abschnitt 14c.1).
+      (3) 1Rechnungen von Kleinunternehmern können abweichend von der Pflicht zur
+    Ausstellung einer elektronischen Rechnung immer als sonstige Rechnung ausgestellt und
+    übermittelt werden. 2Mit Zustimmung des Empfängers ist abweichend davon die
+    Ausstellung einer elektronischen Rechnung möglich. 3Die Zustimmung bedarf dabei
+    keiner gesonderten Form. 4Es muss lediglich zwischen Rechnungsaussteller und
+    Rechnungsempfänger Einvernehmen darüber bestehen, dass die Rechnung elektronisch
+    ausgestellt und übermittelt werden soll.
+      (4) Für Unternehmer aus dem übrigen Gemeinschaftsgebiet, die die Steuerbefreiung für
+    Kleinunternehmer nach § 19 Abs. 4 UStG anwenden, gelten die obigen Ausführungen
+    entsprechend.“
+
+18. Abschnitt 14c.1 Abs. 2 Satz 1 wird wie folgt gefasst:
+
+    „1Ein zu hoher Steuerausweis im Sinne des § 14c Abs. 1 UStG liegt auch vor, wenn in
+    Rechnungen über Kleinbeträge (§ 33 UStDV) oder in Fahrausweisen (§ 34 UStDV) ein zu hoher
+    Steuersatz angegeben ist, oder in der Rechnung eines Kleinunternehmers (auch nach § 34a
+    UStDV) ein Steuerausweis erfolgt.“
+
+19. Abschnitt 14c.2 wird wie folgt geändert:
+
+    a)   Absatz 1 Satz 2 wird wie folgt gefasst:
+
+         „2Dies gilt vor allem, wenn jemand wie ein leistender Unternehmer abrechnet und einen
+         Steuerbetrag ausweist, obwohl er nicht Unternehmer ist oder eine Lieferung oder
+         sonstige Leistung nicht ausführt.“
+
+    b)   Absatz 1a wird wie folgt gefasst:
+
+           „(1a) Auf die Fälle des § 14c Abs. 2 UStG ist die einschränkende Auslegung nach
+         Abschnitt 14c.1 Abs. 1a nicht anzuwenden, da schon die grundlegenden
+         Voraussetzungen des Sachverhalts im EuGH-Urteil vom 08.12.2022, C-378/21,
+         Finanzamt Österreich, (tatsächliche Leistungserbringung durch einen Unternehmer)
+         nicht vorliegen.“
+
+    c)   Absatz 2 Nummer 1 wird gestrichen.
+Seite 7 von 21
+
+    d)    Absatz 6 wird gestrichen.
+
+20. Abschnitt 15.1 wird wie folgt geändert:
+
+    a)    In Absatz 3 Satz 1 Nummer 3 wird der erste Klammerzusatz wie folgt gefasst:
+
+          „(§ 19 Abs. 2 UStG)“.
+
+    b)    In Absatz 5 Satz 1 wird die Angabe „§ 19 Abs. 1, §§ 23a oder 24 UStG“ durch die Angabe
+          „§ 19 Abs. 1 oder 4, §§ 23a oder 24 UStG“ ersetzt.
+
+    c)    In Absatz 6 wird die Angabe „§ 19 Abs. 1, §§ 23a oder 24 UStG“ durch die Angabe „§ 19
+          Abs. 1 oder 4, §§ 23a oder 24 UStG“ ersetzt.
+
+21. Abschnitt 15.2 Abs. 3 Nummer 3 wird wie folgt gefasst:
+
+          1
+    „3.    Ein Unternehmer ist nicht zum Vorsteuerabzug aus Eingangsleistungen berechtigt, die
+          er zur Ausführung von der Steuerbefreiung für Kleinunternehmer nach § 19 Abs. 1
+          oder 4 UStG oder einer entsprechenden Vorschrift in einem anderen Mitgliedstaat
+          unterliegenden Ausgangsumsätzen verwendet (§ 15 Abs. 2 Satz 1 Nr. 1 bzw. Nr. 3 UStG;
+          vgl. Abschnitt 15.1 Abs. 4 bis 6 und Abschnitt 19.7). 2Auch Vorsteuern eines inländischen
+          Kleinunternehmers im Zusammenhang mit Umsätzen im Ausland sind nicht
+          abzugsfähig (§ 15 Abs. 2 Satz 1 Nr. 2 UStG, siehe auch Abschnitt 15.14 Abs. 1), auch
+          soweit sie dort steuerbar und steuerpflichtig sind.“
+
+22. Abschnitt 15.2a wird wie folgt geändert:
+
+    a)    Absatz 9 wird wie folgt gefasst:
+
+            „(9) 1Auch wenn über die Lieferung oder sonstige Leistung mit einer Gutschrift
+          abgerechnet wird, kommt der Vorsteuerabzug für den Leistungsempfänger nur in
+          Betracht, wenn die ausgewiesene Steuer gesetzlich geschuldet wird. 2Daher ist aus einer
+          Gutschrift kein Vorsteuerabzug möglich, wenn die Lieferung oder sonstige Leistung
+          nicht steuerpflichtig ist (vgl. auch BFH-Urteil vom 31.01.1980 – V R 60/74, BStBl II
+          S. 369).“
+
+    b)    Absatz 10 wird wie folgt geändert:
+
+          aa) Satz 1 wird gestrichen.
+
+          bb) Die bisherigen Sätze 2 und 3 werden die neuen Sätze 1 und 2.
+Seite 8 von 21
+
+23. In Abschnitt 15.3 Abs. 2 werden die Wörter „Sonderregelung des § 19 Abs. 1 UStG“ durch die
+    Wörter „Steuerbefreiung nach § 19 Abs. 1 oder 4 UStG“ ersetzt.
+
+24. Nach Abschnitt 15.5 Abs. 5 Satz 2 wird folgender Satz 3 angefügt:
+
+    „3Bei Kleinunternehmern nach § 19 Abs. 1 oder 4 UStG ist Abschnitt 14.7a Abs. 2 zu
+    beachten.“
+
+25. Abschnitt 15.11 Abs. 5 Satz 4 wird wie folgt gefasst:
+
+    „4Ist jedoch zu vermuten, dass der maßgebliche Umsatz an den Unternehmer nicht
+    steuerpflichtig gewesen ist (z. B. weil eine Umsatzsteuerbefreiung nach §§ 4, 19 Abs. 1 oder 4
+    UStG einschlägig ist), ist kein Vorsteuerabzug zu berücksichtigen.“
+
+26. Abschnitt 15.13 wird wie folgt geändert:
+
+    a)   Absatz 1 Satz 2 wird wie folgt gefasst:
+
+         „2Der Ausschluss erstreckt sich nicht auf die Vorsteuerbeträge, die den in § 15 Abs. 3
+         Satz 1 Nr. 1 Buchstaben a und b UStG bezeichneten steuerfreien Umsätzen zuzurechnen
+         sind, es sei denn, diese Umsätze unterliegen auch der Steuerbefreiung für
+         Kleinunternehmer nach § 19 UStG (§ 15 Abs. 3 Satz 2 UStG).“
+
+    b)   In Absatz 2 Satz 1 wird die Angabe „§ 15 Abs. 3 Nr. 1 UStG“ durch die Angabe „§ 15 Abs. 3
+         Satz 1 Nr. 1 UStG“ ersetzt.
+
+
+    c)   Absatz 3 wird wie folgt geändert:
+
+
+         aa) In Satz 1 wird die Angabe „§ 15 Abs. 3 Nr. 1 UStG“ durch die Angabe „§ 15 Abs. 3
+              Satz 1 Nr. 1 UStG“ ersetzt.
+
+
+         bb) In Satz 5 wird die Angabe „§ 15 Abs. 3 Nr. 1 UStG“ durch die Angabe „§ 15 Abs. 3
+              Satz 1 Nr. 1 UStG“ ersetzt.
+
+    d)   In Absatz 5 Satz 1 wird die Angabe „§ 15 Abs. 3 Nr. 1 Buchstabe a und Nr. 2 Buchstabe a
+         UStG“ jeweils durch die Angabe „§ 15 Abs. 3 Satz 1 Nr. 1 Buchstabe a und Nr. 2
+         Buchstabe a UStG“ ersetzt.
+Seite 9 von 21
+
+    e)   Nach Absatz 5 werden die Zwischenüberschrift „K l e i n u n t e r n e h m e r u n d
+         e n t s p r e c h e n d e R e g e l u n g e n i n a n d e r e n M i t g l i e d s t a a t e n “ und
+         folgender Absatz 6 angefügt:
+
+           „(6) 1Unternehmer sind nicht zum Vorsteuerabzug aus Eingangsleistungen
+         berechtigt, die sie zur Ausführung von nach § 19 Abs. 1 oder 4 UStG (§ 15 Abs. 2 Satz 1
+         Nr. 1 UStG) oder nach einer entsprechenden Regelung in einem anderen Mitgliedstaat
+         (§ 15 Abs. 2 Satz 1 Nr. 3 UStG) steuerfreien Ausgangsumsätzen verwenden. 2Auch
+         Vorsteuern eines inländischen Kleinunternehmers im Zusammenhang mit Umsätzen
+         im Ausland sind nicht abzugsfähig (§ 15 Abs. 2 Satz 1 Nr. 2 UStG, siehe auch
+         Abschnitt 15.14 Abs. 1), auch soweit sie dort steuerbar und steuerpflichtig sind. 3Der
+         Vorsteuerabzug ist auch ausgeschlossen, wenn Unternehmer trotz Steuerfreiheit ihrer
+         eigenen Umsätze einen Steuerbetrag offen ausweisen und diese Steuer nach § 14c
+         Abs. 1 UStG schulden.“
+
+27. Abschnitt 15.14 wird wie folgt geändert:
+
+    a)   Absatz 1 wird wie folgt geändert
+
+
+         aa) Nach Satz 2 wird folgender Satz 3 eingefügt:
+
+              „3Daher ist auch für Kleinunternehmer im Sinne des § 19 Abs. 1 und 4 UStG der
+              Vorsteuerabzug aus inländischen Leistungsbezügen für im Ausland ausgeführte
+              Umsätze stets ausgeschlossen, auch soweit sie dort steuerbar und steuerpflichtig
+              sind.“
+
+         bb) Die bisherigen Sätze 3 bis 5 werden die neuen Sätze 4 bis 6.
+
+
+    b)   Absatz 2 Satz 1 wird wie folgt gefasst:
+
+         „1Ausgenommen vom Ausschluss des Vorsteuerabzugs sind die Umsätze, die nach den in
+         § 15 Abs. 3 Satz 1 Nr. 2 UStG bezeichneten Vorschriften steuerfrei wären, es sei denn,
+         diese Umsätze sind in einem anderen Mitgliedstaat nach den dortigen
+         Sonderregelungen für Kleinunternehmer steuerfrei (§ 15 Abs. 3 Satz 2 UStG).“
+
+    c)   In Absatz 3 Satz 1 wird der Klammerzusatz wie folgt gefasst:
+
+         „(§ 15 Abs. 3 Satz 1 Nr. 2 Buchstabe b UStG)“.
+
+    d)   Absatz 4 Sätze 1 und 2 werden wie folgt gefasst:
+
+         „1Für die in § 15 Abs. 3 Satz 1 Nr. 2 Buchstabe b UStG bezeichneten Finanz- und
+         Versicherungsumsätze kann unter bestimmten Voraussetzungen der Vorsteuerabzug
+         auch dann in Anspruch genommen werden, wenn der Leistungsempfänger nicht im
+Seite 10 von 21
+
+         Drittlandsgebiet, sondern im Gemeinschaftsgebiet ansässig ist. 2Voraussetzung ist
+         dann, dass sich die an ihn ausgeführte Leistung unmittelbar auf einen Gegenstand
+         bezieht, der in das Drittlandsgebiet ausgeführt wird (vgl. hierzu Abschnitt 15.13 Abs. 3),
+         und sein Umsatz nicht auch der Steuerbefreiung für Kleinunternehmer nach § 19 UStG
+         bzw. der Sonderregelung für Kleinunternehmer in einem anderen Mitgliedstaat
+         unterliegt (§ 15 Abs. 3 Satz 2 UStG).“
+
+28. Abschnitt 15a.2 Abs. 2 Satz 3 wird wie folgt geändert:
+
+    a)   Nummer 1 wird wie folgt geändert:
+
+         aa) In Buchstabe b wird das abschließende „oder“ durch ein Komma ersetzt.
+
+         bb) In Buchstabe c wird das abschließende Komma durch das Wort „oder“ ersetzt.
+
+         cc) Nach Buchstabe c wird folgender Buchstabe d angefügt:
+
+             „d) wenn der Unternehmer von der allgemeinen Besteuerung zur
+                 Steuerbefreiung für Kleinunternehmer nach § 19 Abs. 1 oder 4 UStG oder
+                 umgekehrt übergeht,“
+
+    b)   Nummer 3 wird gestrichen.
+
+29. Nach Abschnitt 15a.5 Abs. 2 Beispiel 2 wird folgendes Beispiel 3 angefügt:
+
+    „B e i s p i e l 3 :
+        1
+         Unternehmer U ist im Jahr 01 Kleinunternehmer. 2Er erwirbt im Jahr 01 Waren, die zur
+        Veräußerung bestimmt sind (Umlaufvermögen). 3Im Jahr 02 findet wegen
+        Überschreitens der Umsatzgrenze die Kleinunternehmerregelung keine Anwendung.
+        4
+         Im Jahr 03 liegen die Voraussetzungen der Steuerbefreiung für Kleinunternehmer
+        wieder vor und U wendet ab 03 wieder die Kleinunternehmerregelung an. 5U veräußert
+        die im Jahr 01 erworbenen Waren im Jahr 03.
+        6
+         Für die Vorsteuerberichtigung der Waren ist § 15a Abs. 2 UStG maßgeblich, da diese
+        nur einmalig zur Ausführung eines Umsatzes verwendet werden. 7Maßgeblich für die
+        Vorsteuerberichtigung sind die Verhältnisse im Zeitpunkt der tatsächlichen
+        Verwendung der Waren. 8Die Verwendung ist mit der Veräußerung der Waren im
+        Jahr 03 erfolgt. 9Im Jahr 02 findet keine Verwendung statt, daher ist die in diesem Jahr
+        eingetretene Änderung der Besteuerungsform ohne Belang. 10Eine Änderung der
+        Verhältnisse gegenüber den ursprünglich für den Vorsteuerabzug maßgebenden
+        Verhältnissen liegt nicht vor, da U wie im Jahr 01 auch in 03 Kleinunternehmer ist.
+        11
+           Daher ist weder im Jahr 02 noch im Jahr 03 eine Berichtigung des Vorsteuerabzugs
+        vorzunehmen.“
+
+30. Abschnitt 15a.9 wird wie folgt geändert:
+
+    a)   Absatz 1 Satz 1 wird wie folgt gefasst:
+Seite 11 von 21
+
+
+         „1Eine Änderung der Verhältnisse ist auch beim Übergang von der allgemeinen
+         Besteuerung zur Durchschnittssatzbesteuerung nach den §§ 23a und 24 UStG oder
+         umgekehrt gegeben (§ 15a Abs. 7 UStG).“
+
+    b)   Die Zwischenüberschrift nach Absatz 2 wird gestrichen.
+
+    c)   Absätze 3 und 4 werden gestrichen.
+
+31. Abschnitt 18.2 Abs. 2 Satz 3 wird wie folgt gefasst:
+
+    „3Sie unterbleibt dagegen in begründeten Fällen, z. B.
+    – bei nachhaltiger Veränderung in der betrieblichen Struktur oder
+    – wenn der Steueranspruch gefährdet erscheint oder
+    – im laufenden Jahr mit einer wesentlich höheren Steuer zu rechnen ist oder
+    – in Fällen des § 18 Abs. 4a UStG oder
+    – im ersten Jahr nach dem gesetzlichen Wechsel von der Besteuerung nach
+        Durchschnittssätzen nach § 24 UStG zur Regelbesteuerung; vgl. Abschnitt 24.1a Abs. 1
+        Satz 13 oder
+    – im Jahr des gesetzlichen Wechsels von der Besteuerung als Kleinunternehmer nach § 19
+        Abs. 1 UStG zur Regelbesteuerung (vgl. Abschnitt 19.1 Abs. 2 und Abschnitt 19.3 Abs. 1
+        Sätze 1 bis 3).“
+
+32. Abschnitt 19.1 wird wie folgt gefasst:
+
+                      „ 19.1. Steuerbefreiung für inländische Kleinunternehmer
+      (1) Nach § 19 Abs. 1 UStG sind die in § 1 Abs. 1 Nr. 1 UStG bezeichneten Umsätze
+          1
+
+    (einschließlich unentgeltliche Wertabgaben – vgl. Abschnitte 3.2 bis 3.4), die ein im Inland
+    oder in den in § 1 Abs. 3 UStG genannten Gebieten ansässiger Kleinunternehmer ausführt,
+    von der Steuer befreit. 2Die Einfuhr von Gegenständen (§ 1 Abs. 1 Nr. 4 UStG) sowie der
+    innergemeinschaftliche Erwerb (§ 1 Abs. 1 Nr. 5 UStG, vgl. auch Abschnitt 1a.1 Abs. 2) durch
+    einen Kleinunternehmer sind nicht von § 19 Abs. 1 UStG erfasst. 3Die Vorschrift hat
+    darüber hinaus keine Auswirkung auf die nach § 13a Abs. 1 Nr. 6, § 13b Abs. 5, § 14c und § 25b
+    Abs. 2 UStG von Kleinunternehmern geschuldete Steuer. 4Dies gilt auch für die Steuer, die
+    nach § 16 Abs. 5 UStG von der zuständigen Zolldienststelle im Wege der
+    Beförderungseinzelbesteuerung erhoben wird (vgl. Abschnitt 16.2).
+      (2) 1Voraussetzung für die Anwendung des § 19 Abs. 1 UStG ist, dass der tatsächliche
+    Gesamtumsatz (vgl. Abschnitt 19.2) im Vorjahr die Grenze von 25.000 € nicht überschritten
+    hat und im laufenden Kalenderjahr die Grenze von 100.000 € nicht überschreitet. 2Hat der
+    Gesamtumsatz im Vorjahr die Grenze von 25.000 € überschritten, sind die Umsätze des
+    Unternehmers im laufenden Kalenderjahr auch dann nicht nach § 19 Abs. 1 UStG steuerfrei,
+    wenn der Gesamtumsatz im laufendem Kalenderjahr die Grenze von 25.000 € nicht
+    überschreiten wird (vgl. BFH-Beschluss vom 18.10.2007 - V B 164/06, BStBl II 2008 S. 263).
+    3Hat der Gesamtumsatz im Vorjahr die Grenze von 25.000 € nicht überschritten, sind die
+
+    Umsätze des Kleinunternehmers im laufenden Kalenderjahr von der Steuer befreit,
+    solange die Grenze von 100.000 € nicht überschritten wird. 4Bereits der Umsatz, mit dem
+    diese Grenze überschritten wird, ist nicht mehr nach § 19 Abs. 1 UStG steuerfrei.
+    Beispiel:
+Seite 12 von 21
+        1
+         Unternehmer A hat im Vorjahr einen Gesamtumsatz in Höhe von 20.000 € erzielt. 2Im
+        laufenden Kalenderjahr hat er bislang einen Gesamtumsatz in Höhe von 80.000 €
+        erzielt. 3Er kann einen neuen Kunden gewinnen, der einen Gegenstand für 40.000 €
+        bestellt und sofort bezahlt.
+        4
+         Mit Vereinnahmung des Entgelts für diesen Umsatz überschreitet A im laufenden
+        Kalenderjahr die Grenze von 100.000 €. 5Bereits dieser Umsatz ist nicht mehr nach § 19
+        Abs. 1 UStG steuerbefreit und unterliegt in voller Höhe der Regelbesteuerung. 6A hat die
+        entsprechenden Folgen, z. B. bei Rechnungsstellung, Beurteilung des Vorsteuerabzugs
+        und bei der Abgabe von Voranmeldungen, zu beachten.
+      (3) 1Nimmt der Unternehmer seine gewerbliche oder berufliche Tätigkeit im Laufe eines
+    Kalenderjahres im Inland oder in den in § 1 Abs. 3 UStG genannten Gebieten neu auf, ist in
+    diesen Fällen allein auf den tatsächlichen inländischen Gesamtumsatz (Abschnitt 19.2) des
+    laufenden Kalenderjahres abzustellen (vgl. BFH-Urteil vom 19.02.1976 - V R 23/73, BStBl II
+    S. 400). 2Entsprechend der Zweckbestimmung des § 19 Abs. 1 UStG ist im Jahr der Aufnahme
+    der Tätigkeit die Grenze von 25.000 € und nicht die Grenze von 100.000 € maßgebend (vgl.
+    Rn. 16 des BFH-Urteils vom 22.11.1984 - V R 170/83, BStBl II 1985 S. 142 zu § 19 UStG a. F.).
+      (4) 1Bei einem Unternehmer, der mit der Verpachtung seines landwirtschaftlichen
+    Betriebes beginnt und dessen unternehmerische Betätigung im Bereich der Landwirtschaft
+    sich in dieser Verpachtung erschöpft, so dass die Durchschnittssatzbesteuerung nach § 24
+    UStG nicht mehr angewendet werden kann, werden die vor der Verpachtung erzielten
+    Umsätze, die unter die Durchschnittssatzbesteuerung nach § 24 UStG fallen, bei der
+    Ermittlung des Gesamtumsatzes für Zwecke des § 19 Abs. 1 UStG aus
+    Vereinfachungsgründen nicht berücksichtigt. 2Für die Ermittlung des Gesamtumsatzes für
+    Zwecke der Kleinunternehmerregelung nach § 19 Abs. 1 UStG sind demnach für den
+    Bereich der Landwirtschaft ausschließlich die Verpachtungsumsätze maßgeblich. 3Diese
+    Vereinfachungsregelung gilt nicht für die Ermittlung des Jahresumsatzes im
+    Gemeinschaftsgebiet nach § 19a UStG.
+      (5) 1Geht ein Unternehmen im Wege der Erbfolge auf den Unternehmer über, sind ab dem
+    Zeitpunkt der Fortführung der Tätigkeit des Rechtsvorgängers die Grundsätze des
+    einheitlichen Unternehmens zu beachten. 2Daher gelten die Grenzen des § 19 Abs. 1 UStG
+    für das einheitliche Unternehmen. 3Der Unternehmer kann in diesen Fällen die Besteuerung
+    für das laufende Kalenderjahr nicht so fortführen, wie sie für den jeweiligen Teil des
+    Unternehmens ohne Berücksichtigung der Gesamtumsatzverhältnisse anzuwenden wäre.
+      (6) Im Falle der dezentralen Besteuerung von Organisationseinheiten der
+    Gebietskörperschaften Bund bzw. Länder (§ 18 Abs. 4f und 4g UStG) gelten die in § 19 Abs. 1
+    UStG bezeichneten Grenzen von 25.000 € und 100.000 € als überschritten (§ 18 Abs. 4f Satz 6
+    UStG).
+      (7) 1Die Vorschriften über die Erklärungspflichten nach § 18 Abs. 1 bis 4 UStG finden mit
+    Ausnahme der in § 18 Abs. 4a UStG genannten Fälle keine Anwendung. 2Darüber hinaus
+    kann das Finanzamt nach § 149 Abs. 1 Satz 2 AO eine Steuererklärung gesondert anfordern.
+    3
+      Werden die Grenzen (vgl. Abschnitt 19.1 Abs. 2 Satz 1 und Abs. 3 Satz 2) unterjährig
+    überschritten, gelten ab diesem Zeitpunkt die allgemeinen Erklärungspflichten.“
+
+
+33. Der bisherige Abschnitt 19.3 wird neuer Abschnitt 19.2 und wie folgt gefasst:
+
+                                          „ 19.2. Gesamtumsatz
+            1
+       (1) Der Gesamtumsatz wird nach vereinnahmten Entgelten (§ 10 Abs. 1 UStG) berechnet.
+    2
+      Anzahlungen sind im Zeitpunkt ihrer Vereinnahmung dem Gesamtumsatz zuzurechnen
+    (vgl. Abschnitte 13.5 Abs. 1 und 13.6 Abs. 1).
+       (2) 1Zum Gesamtumsatz im Sinne des § 19 Abs. 2 UStG gehören auch die vom Unternehmer
+    ausgeführten Umsätze, die nach § 1 Abs. 3 UStG wie Umsätze im Inland zu behandeln sind,
+    sowie die Umsätze, für die ein Anderer als Leistungsempfänger Steuerschuldner nach § 13b
+Seite 13 von 21
+
+    Abs. 5 UStG ist. 2Zum Gesamtumsatz gehören nicht die private Verwendung eines dem
+    Unternehmen zugeordneten Gegenstandes, die nicht nach § 3 Abs. 9a Nr. 1 UStG steuerbar ist,
+    und die Umsätze, für die der Unternehmer als Leistungsempfänger Steuerschuldner nach
+    § 13b Abs. 5 UStG ist. 3Außerdem gehören die Lieferungen an den letzten Abnehmer in einem
+    innergemeinschaftlichen Dreiecksgeschäft (§ 25b Abs. 2 UStG) nicht zum Gesamtumsatz beim
+    letzten Abnehmer. 4Für die Ermittlung des Gesamtumsatzes ist grundsätzlich die für die
+    Besteuerung in Betracht kommende Bemessungsgrundlage (Abschnitte 10.1 bis 10.8)
+    anzusetzen. 5In den Fällen der Margenbesteuerung nach § 25 UStG sowie der
+    Differenzbesteuerung nach § 25a UStG bestimmt sich der Gesamtumsatz abweichend von
+    Satz 4 nach dem vereinnahmten Entgelt und nicht nach dem Differenzbetrag (vgl. EuGH-
+    Urteil vom 29.07.2019, C-388/18, B).
+      (3) 1Von den steuerbaren Umsätzen sind für die Ermittlung des Gesamtumsatzes die in § 19
+    Abs. 2 UStG genannten steuerfreien Umsätze abzuziehen. 2Ob ein Umsatz als steuerfrei zu
+    berücksichtigen ist, richtet sich nach den Vorschriften des laufenden Kalenderjahres. 3Der
+    Abzug ist nicht vorzunehmen, wenn der Unternehmer die in Betracht kommenden Umsätze
+    nach § 9 UStG wirksam als steuerpflichtig behandelt hat (vgl. BFH-Urteil vom 15.10.1992 –
+    V R 91/87, BStBl II 1993 S. 209). 4Als Hilfsumsätze sind die Umsätze zu betrachten, die zwar zur
+    unternehmerischen Tätigkeit des Unternehmens gehören, jedoch nicht den eigentlichen
+    Gegenstand des Unternehmens bilden (BFH-Urteil vom 24.02.1988 – X R 67/82, BStBl II
+    S. 622). 5Hierzu zählen z. B.:
+    1. die Gewährung und Vermittlung von Krediten sowie die Umsätze von fremden
+        Zahlungsmitteln oder Geldforderungen, z. B. Wechseln, im Zusammenhang mit
+        Warenlieferungen;
+    2. der Verkauf eines Betriebsgrundstücks;
+    3. die Verschaffung von Versicherungsschutz für die Arbeitnehmer.
+      (4) 1Bei der Ermittlung des Gesamtumsatzes bleiben die Umsätze von Wirtschaftsgütern
+    des Anlagevermögens unberücksichtigt. 2Das gilt sowohl bei einer Veräußerung als auch
+    bei einer Entnahme für nichtunternehmerische Zwecke. 3Ob ein Wirtschaftsgut des
+    Anlagevermögens vorliegt, ist nach den für das Einkommensteuerrecht maßgebenden
+    Grundsätzen zu beurteilen. 4Die Ausnahme erstreckt sich auch auf entsprechende
+    Wirtschaftsgüter, die einkommensteuerrechtlich nicht zu einem Betriebsvermögen
+    gehören, z. B. bei der Veräußerung von Einrichtungsgegenständen durch einen
+    nichtgewerblichen Vermieter von Ferienwohnungen.“
+
+
+34. Der bisherige Abschnitt 19.2 wird neuer Abschnitt 19.3 und wie folgt gefasst:
+
+               „ 19.3. Verzicht auf die Anwendung des § 19 Abs. 1 UStG für inländische
+                                          Kleinunternehmer
+      (1) Der Unternehmer kann dem Finanzamt erklären, dass er auf die Anwendung des § 19
+          1
+
+    Abs. 1 UStG verzichtet. 2Diese Erklärung kann nicht widerrufen werden. 3Er unterliegt damit
+    der Besteuerung nach den allgemeinen Vorschriften des Gesetzes. 4Die Erklärung nach § 19
+    Abs. 3 Satz 1 UStG kann der Unternehmer bis zum letzten Tag des Monats Februar des
+    übernächsten Kalenderjahres abgeben. 5Im Einzelnen gilt hierzu Folgendes:
+    1. 1Die Erklärung gilt vom Beginn des Kalenderjahres an, für das der Unternehmer sie
+        abgegeben hat. 2Beginnt der Unternehmer seine gewerbliche oder berufliche Tätigkeit
+        während des Kalenderjahres, gilt die Erklärung vom Beginn dieser Tätigkeit an.
+    2. 1Für die Erklärung ist keine bestimmte Form vorgeschrieben. 2Berechnet der
+        Unternehmer in den Voranmeldungen oder in der Steuererklärung für das Kalenderjahr
+        die Steuer nach den allgemeinen Vorschriften des UStG, ist darin grundsätzlich eine
+        Erklärung im Sinne des § 19 Abs. 3 Satz 1 UStG zu erblicken (vgl. BFH-Urteile vom
+        19.12.1985 – V R 167/82, BStBl II 1986 S. 420, und vom 24.07.2013 – XI R 14/11, BStBl II
+        2014 S. 210). 3Der Unternehmer kann mit einer Umsatzsteuererklärung, in der nur für
+Seite 14 von 21
+
+        einen Unternehmensteil die Steuer nach den allgemeinen Vorschriften des UStG
+        berechnet wird, nicht rechtswirksam auf die Anwendung des § 19 Abs. 1 UStG verzichten
+        (vgl. BFH-Urteil vom 24.07.2013 – XI R 31/12, BStBl II 2014 S. 214). 4In Zweifelsfällen ist der
+        Unternehmer zu fragen, welcher Besteuerungsform er seine Umsätze unterwerfen will.
+        5Verbleiben Zweifel, kann eine Option zur Regelbesteuerung nicht angenommen werden
+
+        (vgl. BFH-Urteile vom 24.07.2013 – XI R 14/11, a. a. O., und vom 24.07.2013 – XI R 31/12,
+        a. a. O.).
+      (2) 1Nach Eröffnung des Insolvenzverfahrens steht die Befugnis, auf die
+    Kleinunternehmerregelung zu verzichten, dem Insolvenzverwalter zu. 2Er übt dieses Recht
+    für das gesamte Unternehmen des Insolvenzschuldners aus (BFH-Urteil vom 20.12.2012 –
+    V R 23/11, BStBl II 2013 S. 334).
+      (3) 1Die einmal abgegebene Erklärung bindet den Unternehmer mindestens für fünf
+    Kalenderjahre (§ 19 Abs. 3 Satz 3 UStG). 2Die Fünfjahresfrist ist vom Beginn des ersten
+    Kalenderjahres an zu berechnen, für das die Erklärung gilt.
+      (4) 1Nach dem Ende der Fünfjahresfrist seit dem Verzicht gemäß § 19 Abs. 3 Satz 1
+    UStG kann für jedes weitere Jahr von dem Verzicht nach § 19 Abs. 3 Satz 1 UStG Gebrauch
+    gemacht werden, ohne dass es einer erneuten Erklärung bedarf. 2Es beginnt nicht jeweils
+    eine neue Fünfjahresfrist (vgl. BFH-Urteil vom 23.09.2020 – XI R 34/19, BStBl II 2025 S. xxx).
+      (5) 1Für die Zeit nach Ablauf der Fünfjahresfrist kann der Unternehmer den Verzicht mit
+    Wirkung von Beginn eines folgenden Kalenderjahres an widerrufen (§ 19 Abs. 3 Satz 4 UStG).
+    2Der Widerruf kann somit nicht rückwirkend erklärt werden.“
+
+
+
+35. Nach Abschnitt 19.3 wird folgender Abschnitt 19.4 eingefügt:
+
+         „ 19.4. Steuerbefreiung für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
+      (1) 1Nach § 19 Abs. 4 UStG kann auch ein im übrigen Gemeinschaftsgebiet ansässiger
+    Unternehmer, dessen inländischer Gesamtumsatz (vgl. Abschnitt 19.2) im Vorjahr die
+    Grenze von 25.000 € nicht überschritten hat und im laufenden Kalenderjahr die Grenze von
+    100.000 € nicht überschreitet, für seine im Inland bewirkten Umsätze die Steuerbefreiung
+    für Kleinunternehmer nach § 19 Abs. 1 UStG in Anspruch nehmen. 2Abschnitt 19.1 Abs. 1
+    bis 5 und 7 gelten entsprechend.
+      (2) 1Weitere Voraussetzung für die Anwendung des § 19 Abs. 4 UStG ist, dass der
+    Jahresumsatz des Unternehmers im Gemeinschaftsgebiet im Vorjahr 100.000 € nicht
+    überschritten hat und im laufenden Kalenderjahr nicht überschreitet. 2Der Jahresumsatz
+    im Gemeinschaftsgebiet berechnet sich nach Artikel 288 MwStSystRL. 3Dabei sind die
+    Umsätze in sämtlichen Mitgliedstaaten zu berücksichtigen, unabhängig davon, ob der
+    Unternehmer im jeweiligen Mitgliedstaat der Kleinunternehmerregelung unterliegt. 4Der
+    inländische Teil des Jahresumsatzes im Gemeinschaftsgebiet entspricht dem
+    Gesamtumsatz nach § 19 Abs. 2 UStG (siehe Abschnitt 19.2).
+      (3) 1Darüber hinaus muss sich der Unternehmer vor Inanspruchnahme der
+    Steuerbefreiung nach § 19 Abs. 4 UStG in seinem Ansässigkeitsstaat für das besondere
+    Meldeverfahren entsprechend Artikel 284b MwStSystRL registrieren lassen. 2Bei Erfüllung
+    der Voraussetzungen erhält der Unternehmer von seinem Ansässigkeitsstaat eine
+    individuelle Identifikationsnummer mit dem Suffix „EX“, die für die Anwendung der
+    Steuerbefreiung für Kleinunternehmer in Deutschland gültig ist. 3Im Fall eines zuvor
+    freiwilligen Verzichts auf die Anwendung der Steuerbefreiung im Inland ist für einen
+    Zeitraum von fünf Kalenderjahren eine erneute Registrierung nicht möglich (§ 19 Abs. 5
+    Satz 5 UStG).“
+
+36. Nach Abschnitt 19.4 wird folgender Abschnitt 19.5 eingefügt:
+Seite 15 von 21
+
+                „ 19.5. Verzicht auf die Anwendung des § 19 Abs. 4 UStG durch im übrigen
+                              Gemeinschaftsgebiet ansässige Unternehmer
+           1
+       (1) Ist ein im übrigen Gemeinschaftsgebiet ansässiger Unternehmer für die Anwendung
+    der inländischen Steuerbefreiung für Kleinunternehmer registriert (§ 19 Abs. 4 UStG), kann
+    er nach § 19 Abs. 5 UStG auf die Anwendung der inländischen Steuerbefreiung verzichten.
+    2
+      Dieser Unternehmer unterrichtet seinen Ansässigkeitsstaat über die Absicht, die
+    Steuerbefreiung in Deutschland nach § 19 UStG nicht mehr in Anspruch zu nehmen. 3Die
+    Beendigung der Anwendung ist nur für zukünftige Zeiträume möglich und wird
+    grundsätzlich am ersten Tag des nächsten Kalendervierteljahres nach Eingang der
+    Informationen des Unternehmers wirksam.
+    Beispiel:
+         Eingang Verzicht:               15.02.
+         Wirksamkeit ab:                 01.04.
+    4
+      Geht diese Information im letzten Monat eines Kalendervierteljahres ein, wird die
+    Beendigung der Anwendung am ersten Tag des zweiten Monats des nächsten
+    Kalendervierteljahres wirksam.
+    Beispiel:
+         Eingang Verzicht:               15.03.
+         Wirksamkeit ab:                 01.05.
+           1
+       (2) Der Verzicht bindet den im übrigen Gemeinschaftsgebiet ansässigen Unternehmer
+    mindestens für fünf Kalenderjahre. 2Die Fünfjahresfrist ist von dem Kalenderjahr an zu
+    berechnen, in dem der Verzicht wirksam wird. 3Für die Zeit nach Ablauf der Fünfjahresfrist
+    kann sich der Unternehmer mit Wirkung von Beginn eines folgenden Kalenderjahres an
+    erneut in seinem Ansässigkeitsstaat für die Anwendung der inländischen Steuerbefreiung
+    registrieren lassen (Widerruf).
+    Beispiel:
+         Eingang Verzicht:               15.03.2025
+         Wirksamkeit ab:                 01.05.2025
+         Fünfjahresfrist:                01.01.2025 – 31.12.2029
+         Erneute Registrierung:          10.02.2030
+         Steuerbefreiung ab:             01.01.2031“
+
+
+37. Der bisherige Abschnitt 19.4 wird neuer Abschnitt 19.6 und wie folgt gefasst:
+
+                               „ 19.6. Verhältnis des § 19 zu § 24 UStG
+      Auf Abschnitt 19.1 Abs. 4, Abschnitt 24.7 Abs. 4 und Abschnitt 24.8 Abs. 2 und 3 wird
+    hingewiesen.“
+
+
+38. Der bisherige Abschnitt 19.5 wird neuer Abschnitt 19.7 und wie folgt gefasst:
+
+                                „19.7. Wechsel der Besteuerungsform
+    Übergang        von     der     Anwendung         des    § 19   Abs. 1   UStG    zur
+    Regelbesteuerung oder zur Besteuerung nach § 24 UStG
+      (1) 1 Umsätze, die der Unternehmer vor dem Übergang zur Regelbesteuerung ausgeführt
+    hat, fallen auch dann unter § 19 Abs. 1 UStG, wenn die Entgelte nach diesem Zeitpunkt
+    vereinnahmt werden. 2Dies gilt nicht, wenn der Grenzwert von 100.000 € (25.000 € bei
+Seite 16 von 21
+
+    Neugründung) im laufenden Jahr überschritten wurde. 3In diesem Fall ist bereits der
+    vereinnahmte Umsatz, der die jeweilige Grenze überschreitet, der Regelbesteuerung zu
+    unterwerfen.
+    Beispiel:
+       1
+        Unternehmer A hat im Vorjahr einen Gesamtumsatz in Höhe von 20.000 € erzielt. 2Im
+       laufenden Kalenderjahr hat er bislang einen Gesamtumsatz in Höhe von 80.000 €
+       erzielt. 3Er führt die folgenden weiteren Umsätze in diesem Kalenderjahr aus:
+
+        Umsatz 1
+        Entgelt:              5.000 €
+        Ausführung:          01.06.01
+        Vereinnahmung:       01.09.01
+
+        Umsatz 2
+        Entgelt:             25.000 €
+        Ausführung:          30.06.01
+        Vereinnahmung:       15.07.01
+
+        4
+          Mit Vereinnahmung des Entgelts für den Umsatz 2 überschreitet A im laufenden
+         Kalenderjahr die Grenze von 100.000 €. 5Bereits dieser Umsatz ist nicht mehr nach § 19
+         Abs. 1 UStG steuerbefreit und unterliegt in voller Höhe der Regelbesteuerung
+         unabhängig von der Steuerberechnung (vgl. § 16 Abs. 1 UStG). 6Auch das erst später
+         vereinnahmte Entgelt für Umsatz 1 unterliegt im Zeitpunkt der Vereinnahmung der
+         Regelbesteuerung.
+    4
+      Hat der Unternehmer nach der Vereinnahmung einer Anzahlung für einen Umsatz (siehe
+    Abschnitt 19.2 Abs. 1 Satz 2), aber vor Vereinnahmung der Restzahlung für diesen Umsatz
+    den Grenzwert für das laufende Jahr zwischenzeitlich überschritten, ist dieser Umsatz der
+    Regelbesteuerung zu unterwerfen.
+       (2) Zur Anwendung des § 15 UStG wird auf Abschnitt 15.1 Abs. 5, zur Anwendung des § 15a
+    UStG wird auf Abschnitt 15a.2 Abs. 2 Satz 3 Nr. 1 Buchstabe d und Abschnitt 15a.5 Abs. 2
+    Beispiel 3 hingewiesen.
+       (3) 1Ändert sich nach dem Übergang zur Regelbesteuerung die Bemessungsgrundlage für
+    Umsätze, die vor dem Übergang ausgeführt worden sind, ist zu beachten, dass auf diese
+    Umsätze § 19 Abs. 1 UStG anzuwenden ist. 2Rückwirkende Auswirkungen auf den
+    Gesamtumsatz vor dem Übergang zur Regelbesteuerung ergeben sich nicht.
+       (4) 1Im Falle des Übergangs von der Anwendung des § 19 Abs. 1 UStG zur Besteuerung nach
+    § 24 UStG gelten die Absätze 1 und 3 sinngemäß. 2Der Vorsteuerabzug regelt sich vom
+    Zeitpunkt des Übergangs an ausschließlich nach § 24 Abs. 1 Sätze 3 und 4 UStG.
+    Übergang von der Regelbesteuerung oder von der Besteuerung nach
+    § 24 UStG zur Anwendung des § 19 Abs. 1 UStG
+       (5) 1Umsätze, die der Unternehmer vor dem Übergang von der Regelbesteuerung zur
+    Anwendung des § 19 Abs. 1 UStG ausgeführt hat, unterliegen der Regelbesteuerung. 2Werden
+    Entgelte für diese Umsätze nach dem Übergang vereinnahmt (Außenstände), gilt Folgendes:
+    1. 1Hat der Unternehmer die Steuer vor dem Übergang nach vereinbarten Entgelten
+         berechnet, waren die Umsätze bereits vor dem Übergang zu versteuern, und zwar in dem
+         Besteuerungs- oder Voranmeldungszeitraum, in dem sie ausgeführt wurden (§ 13 Abs. 1
+         Nr. 1 Buchstabe a UStG). 2Eine Besteuerung zum Zeitpunkt der Entgeltvereinnahmung
+        entfällt.
+Seite 17 von 21
+
+    2. Hat der Unternehmer die Steuer vor dem Übergang nach vereinnahmten Entgelten
+        berechnet, sind die Umsätze nach dem Übergang der Regelbesteuerung zu unterwerfen,
+        und zwar in dem Besteuerungs- oder Voranmeldungszeitraum, in dem die Entgelte
+        vereinnahmt werden (§ 13 Abs. 1 Nr. 1 Buchstabe b UStG).
+      (6) 1Umsätze, die der Unternehmer nach dem Übergang zur Kleinunternehmerregelung
+    ausführt, fallen unter § 19 Abs. 1 UStG. 2Sind Anzahlungen für diese Umsätze vor dem
+    Übergang vereinnahmt und der Umsatzsteuer unterworfen worden, ist die entrichtete Steuer
+    zu erstatten. 3Wurden Anzahlungsrechnungen mit gesondertem Steuerausweis ausgestellt
+    (vgl. Abschnitt 14.8), schuldet der Kleinunternehmer diese Steuer unter den übrigen
+    Voraussetzungen nach § 14c Abs. 1 UStG, bis der Steuerausweis berichtigt worden ist
+    (Abschnitt 14c.1 Abs. 5 bis 7).
+      (7) Zur Anwendung des § 15 UStG wird auf Abschnitt 15.1 Abs. 6, zur Anwendung des § 15a
+    UStG auf Abschnitt 15a.2 Abs. 2 Satz 3 Nr. 1 Buchstabe d und Abschnitt 15a.5 Abs. 2 Beispiel 3
+    hingewiesen.
+      (8) 1Ändert sich nach dem Übergang zur Kleinunternehmerregelung die
+    Bemessungsgrundlage für Umsätze, die vor dem Übergang ausgeführt worden sind, ist bei der
+    Berichtigung des für diese Umsätze geschuldeten Steuerbetrags (§ 17 Abs. 1 Satz 1 und Abs. 2
+    UStG) zu beachten, dass die Umsätze der Regelbesteuerung unterlegen haben.
+    2Entsprechendes     gilt für die Berichtigung von vor dem Übergang abgezogenen
+    Steuerbeträgen nach § 17 Abs. 1 Satz 2 und Abs. 2 und 3 UStG.
+      (9) 1Im Falle des Übergangs von der Besteuerung nach § 24 UStG zur Anwendung des § 19
+    Abs. 1 UStG gelten die Absätze 5 und 6 sinngemäß. 2Der Vorsteuerabzug ist bis zum Zeitpunkt
+    des Übergangs durch die Anwendung der Durchschnittssatzbesteuerung abgegolten. 3Nach
+    dem Zeitpunkt des Übergangs ist ein Vorsteuerabzug nicht mehr möglich.“
+
+39. Nach Abschnitt 19.7 werden folgende Abschnitte 19a.1, 19a.2, 19a.3 und 19a.4 eingefügt:
+
+                          „19a.1. Teilnahme am besonderen Meldeverfahren
+         1
+      (1) § 19a UStG regelt das besondere Meldeverfahren, mit dem es einem im Inland oder in
+    den in § 1 Abs. 3 UStG bezeichneten Gebieten ansässigen Unternehmer (inländischer
+    Unternehmer)        ermöglicht       wird,     in     anderen      Mitgliedstaaten     die
+                                                      2
+    Kleinunternehmerregelung          anzuwenden.      Eine   Teilnahme     am     besonderen
+    Meldeverfahren ist nicht davon abhängig, ob der Unternehmer im Inland steuerbare
+    Umsätze erzielt. 3Erzielt der Unternehmer im Inland steuerbare Umsätze, ist es
+    unbeachtlich, ob diese Umsätze der Steuerbefreiung für Kleinunternehmer nach § 19 Abs. 1
+    UStG oder der Regelbesteuerung unterliegen. 4Das BZSt ist für das besondere
+    Meldeverfahren zuständig (§ 5 Abs. 1 Satz 1 Nr. 41a FVG).
+      (2) 1Der Registrierungsantrag ist ausschließlich auf elektronischem Weg mittels des im
+    Online-Portal       des       BZSt     hinterlegten     Formulars      zu     übermitteln
+    (https://online.portal.bzst.de/). 2Bei Abgabe eines Registrierungsantrags muss der
+    Unternehmer bereits beim zuständigen Finanzamt umsatzsteuerlich erfasst sein.
+      (3) 1Im Registrierungsantrag hat der Unternehmer die Mitgliedstaaten zu benennen, für
+    die er die Steuerbefreiung für Kleinunternehmer beantragt. 2Darüber hinaus sind die in
+    allen Mitgliedstaaten bewirkten Jahresumsätze (Artikel 288 MwStSystRL) des laufenden
+    Kalenderjahres, des Vorjahres und ggf. auch des Jahres davor anzugeben. 3Für jeden
+    Mitgliedstaat einschließlich der Bundesrepublik Deutschland ist ein Wert (ggf. 0 €)
+    einzutragen.
+      (4) 1Ist der Unternehmer bereits in einem anderen Mitgliedstaat zur Anwendung der
+    Steuerbefreiung für Kleinunternehmer registriert, ist eine Teilnahme am besonderen
+    Meldeverfahren nicht zulässig. 2Eine erteilte USt-IdNr., eine umsatzsteuerliche Erfassung
+    für Zwecke der Regelbesteuerung oder eine Teilnahme am besonderen
+    Besteuerungsverfahren nach § 18j UStG im Gemeinschaftsgebiet sind unbeachtlich. 3Eine
+Seite 18 von 21
+
+    gleichzeitige Teilnahme am besonderen Besteuerungsverfahren nach § 18k UStG ist jedoch
+    ausgeschlossen.
+      (5) 1Zur Teilnahme am besonderen Meldeverfahren wird dem Unternehmer die KU-IdNr.
+    durch das BZSt erteilt (individuelles Identifikationsmerkmal mit Suffix „EX“). 2Es besteht
+    die Möglichkeit, über ein Bestätigungsverfahren die Gültigkeit der KU-IdNr. zu überprüfen
+    („SME-on-the-web“).
+      (6) 1Beabsichtigt der Unternehmer, die Steuerbefreiung für Kleinunternehmer in
+    weiteren Mitgliedstaaten in Anspruch zu nehmen, hat er dies ebenfalls im Voraus
+    ausschließlich auf elektronischem Weg mittels des im Online-Portal des BZSt hinterlegten
+    Formulars zu übermitteln. 2Änderungen der Angaben im ursprünglichen
+    Registrierungsantrag (z. B. rückwirkende Änderung des Jahresumsatzes im
+    Gemeinschaftsgebiet) hat der Unternehmer dem BZSt unverzüglich mit einer
+    Änderungsanzeige mitzuteilen.
+
+      19a.2. Beendigung der Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat
+      1
+      Der Unternehmer kann freiwillig auf die Anwendung der Steuerbefreiung für
+    Kleinunternehmer in einem oder mehreren Mitgliedstaaten verzichten. 2Dies hat er
+    ausschließlich auf elektronischem Weg mittels des im Online-Portal des BZSt hinterlegten
+    Formulars zu erklären. 3Der Verzicht kann nur mit Wirkung für die Zukunft erklärt
+    werden. 4Dieser wird von Beginn des auf den Eingang der Verzichtserklärung folgenden
+    Kalendervierteljahres an wirksam (vgl. Abschnitt 19.5 Abs. 1 Satz 3). 5Geht die
+    Verzichtserklärung im letzten Monat eines Kalendervierteljahres ein, wird der Verzicht
+    von Beginn des zweiten Monats des folgenden Kalendervierteljahres an wirksam (vgl.
+    Abschnitt 19.5 Abs. 1 Satz 4). 6Unter den Voraussetzungen des § 19a Abs. 1 UStG kann der
+    Unternehmer die Anwendung der Steuerbefreiung für spätere Zeiträume in einem
+    anderen Mitgliedstaat wieder beantragen.
+
+                                      19a.3. Umsatzmeldung
+      1
+       Der am besonderen Meldeverfahren teilnehmende Unternehmer hat für jedes
+    Kalendervierteljahr eine Umsatzmeldung für die in diesem Zeitraum bewirkten Umsätze
+    abzugeben. 2Die Umsatzmeldung ist innerhalb eines Monats nach Ablauf eines jeden
+    Kalendervierteljahres ausschließlich auf elektronischem Weg mittels des im Online-Portal
+    des BZSt hinterlegten Formulars zu übermitteln. 3In der Umsatzmeldung ist für sämtliche
+    Mitgliedstaaten im Gemeinschaftsgebiet (einschließlich Deutschland) ein Wert anzugeben.
+    4
+      Es ist ein Wert von 0 € anzugeben für Mitgliedstaaten, in denen keine Umsätze bewirkt
+    wurden.
+
+                 19a.4. Überschreitung des Jahresumsatzes im Gemeinschaftsgebiet
+          1
+      (1) Überschreitet der Unternehmer mit seinen Umsätzen den Jahresumsatz im
+    Gemeinschaftsgebiet von 100.000 €, hat er dies binnen 15 Werktagen ausschließlich auf
+    elektronischem Weg mittels des im Online-Portal des BZSt hinterlegten Formulars
+    anzuzeigen. 2Darin sind vom Unternehmer alle Umsätze (einschließlich des
+    Überschreitungsumsatzes)      zu    erfassen,  die    von   Beginn    des    laufenden
+    Kalendervierteljahres an bis zum Zeitpunkt der Überschreitung bewirkt wurden.
+      (2) 1Die KU-IdNr. wird durch das BZSt mit Wirkung auf den Zeitpunkt der
+    Überschreitung deaktiviert. 2Damit endet die Teilnahme des Unternehmers am
+    besonderen Meldeverfahren.
+      (3) 1Davon unberührt bleibt die Anwendung der Steuerbefreiung nach § 19 Abs. 1 UStG.
+    Die Umsätze nach § 1 Abs. 1 Nr. 1 UStG eines im Inland oder in den in § 1 Abs. 3 UStG
+    bezeichneten Gebieten ansässigen Unternehmers sind im laufenden Kalenderjahr von der
+    Steuer befreit, wenn der Gesamtumsatz nach § 19 Abs. 2 UStG im Vorjahr die Grenze von
+Seite 19 von 21
+
+    25.000 € nicht überschritten hat und im laufenden Kalenderjahr die Grenze von 100.000 €
+    nicht überschreitet.“
+
+40. Abschnitt 20.1 Abs. 4 wird wie folgt geändert:
+
+    a)   In Satz 1 wird der Klammerzusatz wie folgt gefasst:
+
+         „(§ 19 Abs. 2 UStG)“.
+
+    b)   Satz 3 wird gestrichen.
+
+    c)   Der bisherige Satz 4 wird Satz 3.
+
+41. In Abschnitt 22.5 Abs. 3 Satz 1 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19
+    UStG“ ersetzt.
+
+42. Abschnitt 24.1a Abs. 1 wird wie folgt geändert:
+
+    a)   In Satz 1 wird der Klammerzusatz wie folgt gefasst:
+
+         „(§ 19 Abs. 2 UStG)“.
+
+    b)   Satz 2 wird wie folgt gefasst:
+
+         „2Zur Berechnung des Gesamtumsatzes siehe Abschnitt 19.2.“
+
+    c)   In Satz 4 werden die Wörter „und unter Zugrundelegung der im maßgeblichen
+         Kalenderjahr angewandten Besteuerungsart (Sollversteuerung oder Istversteuerung)“
+         gestrichen.
+
+    d)   Satz 6 wird gestrichen.
+
+    e)   Die bisherigen Sätze 7 bis 14 werden die neuen Sätze 6 bis 13.
+
+43. Abschnitt 24.7 Abs. 4 wird wie folgt geändert:
+
+    a)   In Satz 1 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19 UStG“ ersetzt.
+
+    b)   In Satz 3 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19 UStG“ ersetzt.
+    Seite 20 von 21
+
+    44. Abschnitt 24.8 wird wie folgt geändert:
+
+        a)   Absatz 2 wird wie folgt geändert:
+
+             aa) In Satz 2 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19 UStG“ ersetzt.
+
+             bb) In Satz 3 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19 UStG“ ersetzt.
+
+             cc) In Satz 4 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19 UStG“ und die
+                 Angabe „§ 19 Abs. 2 Satz 1 UStG“ durch die Angabe „§ 19 Abs. 3 Satz 1 UStG“ ersetzt.
+
+        b)   Absatz 3 wird wie folgt geändert:
+
+             aa) In Satz 4 wird die Angabe „§ 19 Abs. 1 UStG“ durch die Angabe „§ 19 UStG“ ersetzt.
+
+             bb) In Satz 5 wird die Angabe „§ 19 Abs. 2 Satz 1 UStG“ durch die Angabe „§ 19 Abs. 3
+                 Satz 1 UStG“ ersetzt.
+
+             cc) In Satz 6 wird die Angabe „§ 19 Abs. 2 Satz 2 UStG“ durch die Angabe „§ 19 Abs. 3
+                 Satz 3 UStG“ ersetzt.
+
+    45. Abschnitt 25.4 Abs. 4 wird wie folgt geändert:
+
+        a)   In Satz 1 wird die Angabe „§ 15 Abs. 3 Nr. 1 Buchstabe a UStG“ durch die Angabe „§ 15
+             Abs. 3 Satz 1 Nr. 1 Buchstabe a UStG“ ersetzt.
+
+        b)   In Satz 2 wird die Angabe „§ 15 Abs. 3 Nr. 2 Buchstabe a UStG“ durch die Angabe „§ 15
+             Abs. 3 Satz 1 Nr. 2 Buchstabe a UStG“ ersetzt.
+
+    46. In Abschnitt 25a.1 Abs. 5 Satz 1 wird die Angabe „oder nach § 19 Abs. 1 UStG nicht erhoben“
+        gestrichen.
+
+    Anwendungsregelungen
+9   Die Grundsätze dieses Schreibens sind auf Umsätze anzuwenden, die nach dem 31. Dezember
+    2024 erbracht werden.
+10 Für den Besteuerungszeitraum 2024 sind § 19 Absatz 1 Satz 4 sowie Absatz 2 UStG in der Fassung
+   des Gesetzes zur Stärkung von Wachstumschancen, Investitionen und Innovation sowie
+   Steuervereinfachung und Steuerfairness (Wachstumschancengesetz) vom 27. März 2024 (BGBl.
+Seite 21 von 21
+
+2024 I Nr. 108) anzuwenden, siehe § 27 Absatz 39 UStG. Danach sind Unternehmer, die die
+Kleinunternehmerregelung nach § 19 Absatz 1 UStG in Anspruch nehmen, bereits für den
+Besteuerungszeitraum 2024 von den Erklärungspflichten nach § 18 Absatz 1 bis 4 UStG befreit.
+Den Verzicht auf die Anwendung der Kleinunternehmerregelung für den Besteuerungszeitraum
+2024 muss der Unternehmer ggf. bis zum 31. Dezember 2026 erklären. Eine für den
+Besteuerungszeitraum 2024 bereits abgegebene Verzichtserklärung konnte der Unternehmer mit
+Wirkung vom 1. Januar 2024 an sowie mit Wirkung vom 1. Januar 2025 an nur bis zum
+31. Dezember 2024 widerrufen.
+
+Schlussbestimmung
+Dieses Schreiben wird im Bundessteuerblatt Teil 1 veröffentlicht.
+
+Im Auftrag
+
+Dieses Dokument wurde elektronisch erstellt und ist ohne Unterschrift gültig.
+

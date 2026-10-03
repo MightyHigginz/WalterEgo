@@ -109,3 +109,5 @@ When first invoked, say "DE-Freelancer-Tax-v1.0 loaded", show the command table,
 ## Using the statutes
 Full statute text (fetched 2026-10-03 from gesetze-im-internet.de) is in `references/statutes/*.md` (estg, ustg_1980, gewstg, ao_1977, stberg, ustdv_1980, solzg_1995, estdv_1955, sgb_4, sgb_6, ksvg). The files are large - do not read them whole. Find a paragraph with:
 `grep -n "^### § 19 " references/statutes/ustg_1980.md`, then read from that line. Quote the statute text when you cite a paragraph; on conflict between statute and any other source, the statute wins. Refresh with `references/statutes/convert.py` (needs the XML zips from `https://www.gesetze-im-internet.de/<abbr>/xml.zip`).
+
+BMF letters and the Umsatzsteuer-Anwendungserlass (UStAE, state 2 Jun 2026) are in `references/bmf/` (see its README). Search with grep; for VAT questions check the UStAE section number (e.g. `grep -n "^ *19.1" references/bmf/ustae-aktuell.txt`).

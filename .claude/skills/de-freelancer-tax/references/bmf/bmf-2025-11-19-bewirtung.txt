@@ -1,0 +1,261 @@
+Bundesministerium der Finanzen, 11016 Berlin
+
+Nur per E-Mail                                                          Wilhelmstraße 97
+                                                                        10117 Berlin
+Oberste Finanzbehörden                                                  Tel. +49 30 18 682-0
+der Länder
+                                                                        poststelle@bmf.bund.de
+                                                                        www.bundesfinanzministerium.de
+                                                                        19. November 2025
+
+
+
+
+Betreff: Steuerliche Anerkennung von Aufwendungen für die Bewirtung von Personen aus
+geschäftlichem Anlass in einem Bewirtungsbetrieb als Betriebsausgaben
+Bezug: BMF-Schreiben vom 30. Juni 2021 (BStBl I S. 908)
+GZ: IV C 6 - S 2145/00026/005/033
+DOK: COO.7005.100.3.13341086
+Seite 1 von 6
+(bei Antwort bitte GZ und DOK angeben)
+
+
+
+
+Dieses Schreiben ergänzt die bisherigen Regelungen des BMF-Schreibens vom 30. Juni 2021
+(BStBl I S. 908) zur Nachweisführung für den Betriebsausgabenabzug für Bewirtungsaufwendun-
+gen um Regelungen aufgrund der Einführung der obligatorischen elektronischen Rechnung
+(E-Rechnung) bei Umsätzen zwischen inländischen Unternehmern ab dem 1. Januar 2025 durch
+das Wachstumschancengesetz vom 27. März 2024 (BGBl. I 2024 Nr. 108). Das BMF-Schreiben vom
+30. Juni 2021 (BStBl I S. 908) wird durch dieses Schreiben ersetzt und ist für die zuvor geltende
+Rechtslage für Bewirtungen bis zum 31. Dezember 2024 weiter anzuwenden.
+
+Inhaltsverzeichnis                                                                             Rn.
+1. Inhalt der Bewirtungsrechnung
+   1.1 Rechnungen bis 250 Euro (Kleinbetragsrechnungen)                                           3
+       1. 1. 1 Name und Anschrift des leistenden Unternehmers (Bewirtungsbetrieb)                 4
+       1. 1. 2 Ausstellungsdatum                                                                  5
+       1. 1. 3 Leistungsbeschreibung                                                              6
+       1. 1. 4 Leistungszeitpunkt (Tag der Bewirtung)                                             7
+       1. 1. 5 Rechnungsbetrag                                                                    8
+   1. 2. Rechnungen über 250 Euro                                                                 9
+       1. 2. 1 Steuernummer oder Umsatzsteuer-Identifikationsnummer                              10
+       1. 2. 2 Rechnungsnummer                                                                   11
+       1. 2. 3 Name des Bewirtenden                                                              12
+2. Erstellung der Bewirtungsrechnung                                                       13 - 17
+    Seite 2 von 6
+
+    3. Elektronische, digitale oder digitalisierte Bewirtungsrechnungen und –belege         18 - 22
+    4. Bewirtungen im Ausland                                                                    23
+
+
+    Nach Erörterungen mit den obersten Finanzbehörden der Länder gilt zur steuerlichen Anerken-
+    nung des Betriebsausgabenabzugs von Aufwendungen für die Bewirtung im Sinne des (i. S. d.) § 4
+    Absatz 5 Satz 1 Nummer 2 Einkommensteuergesetz (EStG) in Verbindung mit R 4.10 Absatz 5
+    bis 9 Einkommensteuerrichtlinie (EStR) Folgendes:
+
+1   Der Abzug von angemessenen Bewirtungsaufwendungen als Betriebsausgaben erfordert nach § 4
+    Absatz 5 Satz 1 Nummer 2 Satz 2 EStG vom Steuerpflichtigen einen schriftlichen Nachweis über
+    Ort, Tag, Teilnehmer und Anlass der Bewirtung sowie die Höhe der Aufwendungen. Die zum
+    Nachweis von Bewirtungsaufwendungen erforderlichen schriftlichen Angaben müssen zeitnah
+    gemacht werden (BFH-Urteil vom 25. März 1988 – III R 96/85, BStBl II S. 655). Hierfür wird regel-
+    mäßig ein formloses Dokument (sog. Bewirtungsbeleg als Eigenbeleg) erstellt. Dieser Eigenbeleg
+    ist vom Steuerpflichtigen zu unterschreiben (BFH-Urteil vom 15. Januar 1998 – IV R 81/96,
+    BStBl II S. 263). Bei Bewirtung in einem Bewirtungsbetrieb ist zum Nachweis die Rechnung über
+    die Bewirtung beizufügen; dabei genügen auf dem Eigenbeleg Angaben zum Anlass und zu den
+    Teilnehmern der Bewirtung (§ 4 Absatz 5 Satz 1 Nummer 2 Satz 3 EStG, R 4.10 Absatz 8 Satz 2
+    EStR). Die Rechnung muss, soweit im Folgenden nichts Anderes geregelt ist, nach R 4.10 Absatz 8
+    Satz 8 EStR den Anforderungen des § 14 Umsatzsteuergesetz (UStG) genügen. Sie muss maschi-
+    nell erstellt und elektronisch aufgezeichnet sein. Bei Rechnungen mit einem Gesamtbetrag bis zu
+    250 Euro (Kleinbetragsrechnungen) müssen mindestens die Anforderungen des § 33 Umsatz-
+    steuer-Durchführungsverordnung (UStDV) erfüllt sein.
+2   Nachfolgend wird der Begriff „Rechnung“ grundsätzlich einheitlich für eine Rechnung i. S. d. § 14
+    UStG verwendet, die auch die Anforderungen an einen Beleg i. S. d. § 146a Abgabenordnung (AO)
+    i. V. m. § 6 Kassensicherungsverordnung (KassenSichV) erfüllen kann.
+
+    1. Inhalt der Bewirtungsrechnung
+    1.1 Rechnungen bis 250 Euro (Kleinbetragsrechnungen)
+
+3   Kleinbetragsrechnungen i. S. d. § 33 UStDV sind Rechnungen, deren Gesamtbetrag 250 Euro
+    nicht übersteigt. Diese müssen für den Betriebsausgabenabzug von Bewirtungsaufwendungen
+    folgende Angaben enthalten:
+
+    1. 1. 1 Name und Anschrift des leistenden Unternehmers (Bewirtungsbetrieb)
+
+4   Die Rechnung muss den vollständigen Namen und die vollständige Anschrift des leistenden
+    Unternehmers (Bewirtungsbetrieb) enthalten. Den Anforderungen ist genügt, wenn sich auf
+    Grund der in der Rechnung aufgenommenen Bezeichnungen der Name und die Anschrift
+    eindeutig feststellen lassen (§ 31 Absatz 2 UStDV).
+
+    1. 1. 2 Ausstellungsdatum
+
+5   Die Rechnung muss das Ausstellungsdatum enthalten.
+    Seite 3 von 6
+
+
+    1. 1. 3 Leistungsbeschreibung
+
+6   Die Rechnung muss zu der Bewirtungsleistung die Menge und die Art der gelieferten Gegenstän-
+    de oder den Umfang und die Art der sonstigen Leistung enthalten. Buchstaben, Zahlen oder
+    Symbole, wie sie für umsatzsteuerliche Zwecke ausreichen (§ 31 Absatz 3 UStDV), genügen für
+    den Betriebsausgabenabzug nicht. Bewirtungsleistungen sind im Einzelnen zu bezeichnen; die
+    Angabe "Speisen und Getränke" und die Angabe der für die Bewirtung in Rechnung gestellten
+    Gesamtsumme reichen nicht. Bezeichnungen wie z. B. "Menü 1", "Tagesgericht 2" oder "Lunch-
+    Buffet" und aus sich selbst heraus verständliche Abkürzungen sind jedoch nicht zu beanstanden.
+
+    1. 1. 4 Leistungszeitpunkt (Tag der Bewirtung)
+
+7   In der Rechnung muss für den Betriebsausgabenabzug der Leistungszeitpunkt (Tag der Bewir-
+    tung) angegeben werden. Ein Verweis auf das Ausstellungsdatum (siehe Rn. 5) z. B. in der Form
+    „Leistungsdatum entspricht Rechnungsdatum“ ist ausreichend.
+    Handschriftliche Ergänzungen oder Datumsstempel reichen nicht aus.
+
+    1. 1. 5 Rechnungsbetrag
+
+8   Die Rechnung muss den Preis für die Bewirtungsleistungen enthalten. Ein ggf. vom bewirtenden
+    Steuerpflichtigen zusätzlich gewährtes Trinkgeld kann durch die maschinell erstellte und elek-
+    tronisch aufgezeichnete Rechnung zusätzlich ausgewiesen werden. Wird das Trinkgeld in der
+    Rechnung nicht ausgewiesen, gelten für den Nachweis von Trinkgeldzahlungen die allgemeinen
+    Regelungen über die Feststellungslast, die beim bewirtenden Steuerpflichtigen liegt. Der Nach-
+    weis kann z. B. dadurch geführt werden, dass das Trinkgeld vom Empfänger des Trinkgeldes auf
+    der Rechnung quittiert wird.
+
+    1. 2. Rechnungen über 250 Euro
+
+9   Rechnungen mit einem Gesamtbetrag von über 250 Euro müssen für den Betriebsausgabenabzug
+    von Bewirtungsaufwendungen zusätzlich zu den Angaben in den Rn. 4 bis 8 folgende Angaben
+    enthalten:
+
+    1. 2. 1 Steuernummer oder Umsatzsteuer-Identifikationsnummer
+
+10 Die Rechnung muss die dem leistenden Unternehmer (Bewirtungsbetrieb) vom Finanzamt erteil-
+   te Steuernummer oder die ihm vom Bundeszentralamt für Steuern erteilte Umsatzsteuer-Identi-
+   fikationsnummer enthalten.
+    Seite 4 von 6
+
+    1. 2. 2 Rechnungsnummer
+
+11 Die Rechnung muss eine fortlaufende Nummer enthalten, die zur Identifizierung der Rechnung
+   vom Rechnungsaussteller einmalig vergeben worden ist. Die verpflichtenden Angaben nach § 6
+   KassenSichV, wie z. B. die Angabe einer Transaktionsnummer, bleiben unberührt.
+
+    1. 2. 3 Name des Bewirtenden
+
+12 Nach R 4.10 Absatz 8 Satz 4 EStR muss die Rechnung auch den Namen des bewirtenden Steuer-
+   pflichtigen enthalten. Diese Vorgabe wird durch eine ordnungsmäßige Rechnung mit der
+   Angabe des Leistungsempfängers i. S. d. § 14 Absatz 4 Satz 1 Nummer 1 UStG erfüllt.
+
+    2. Erstellung der Bewirtungsrechnung
+
+13 Verwendet der Bewirtungsbetrieb ein elektronisches Aufzeichnungssystem mit Kassenfunktion
+   i. S. d. § 146a Absatz 1 AO i. V. m. § 1 Absatz 1 Satz 1 KassenSichV, werden für den Betriebsaus-
+   gabenabzug von Aufwendungen für eine Bewirtung von Personen aus geschäftlichem Anlass nur
+   maschinell erstellte, elektronisch aufgezeichnete und mit Hilfe einer zertifizierten technischen
+   Sicherheitseinrichtung (TSE) abgesicherte Rechnungen anerkannt. Der Bewirtungsbetrieb ist in
+   diesen Fällen nach § 146a Absatz 2 AO verpflichtet, mit dem elektronischen Aufzeichnungssys-
+   tem mit Kassenfunktion Belege über die Geschäftsvorfälle zu erstellen. Der zu erstellende Beleg,
+   der die Angaben gemäß § 6 KassenSichV enthält, stellt bei einem Gesamtbetrag der Rechnung bis
+   250 Euro eine ordnungsmäßige sonstige Rechnung i. S. d. § 14 Absatz 1 Satz 4 UStG i. V. m. § 33
+   Satz 4 UStDV dar. Bei einem Gesamtbetrag der Rechnung über 250 Euro kann eine sonstige
+   Rechnung in Form eines Kassenbelegs ausgestellt und nachträglich durch eine E-Rechnung
+   berichtigt werden. Belege in anderer Form, z. B. handschriftlich erstellte oder nur maschinell
+   erstellte, erfüllen die Nachweisvoraussetzungen des Satzes 1 nicht; die darin ausgewiesenen
+   Bewirtungsaufwendungen sind vollständig vom Betriebsausgabenabzug ausgeschlossen.
+14 Der bewirtende Steuerpflichtige kann im Allgemeinen darauf vertrauen, dass die ihm erteilte
+   Rechnung vom Bewirtungsbetrieb maschinell ordnungsmäßig erstellt und aufgezeichnet wor-
+   den ist, wenn der von dem elektronischen Aufzeichnungssystem mit Kassenfunktion ausgestellte
+   Beleg mit einer Transaktionsnummer, der Seriennummer des elektronischen Aufzeichnungssys-
+   tems oder der Seriennummer des Sicherheitsmoduls versehen wurde. Diese Angaben können
+   auch in Form eines QR Codes dargestellt werden.
+15 Fällt die TSE aus, darf nach AEAO zu § 146a Nummer 1.14.2, 1.14.3 und 2.7 das elektronische
+   Aufzeichnungssystem weiterbetrieben werden, wenn der Ausfall auf dem Beleg z. B. durch eine
+   fehlende Transaktionsnummer oder durch eine sonstige eindeutige Kennzeichnung ersichtlich
+   ist. Für entsprechend ausgestellte Belege über Bewirtungsaufwendungen ist der Betriebsaus-
+   gabenabzug grundsätzlich zulässig.
+16 Wird über Bewirtungsleistungen zu einem späteren Zeitpunkt als dem Tag der Bewirtung abge-
+   rechnet und werden diese unbar bezahlt (z. B. bei der Bewirtung eines größeren Personenkreises
+   im Rahmen einer geschlossenen Veranstaltung) oder sind in dem Bewirtungsbetrieb ausschließ-
+   lich unbare Zahlungen möglich, ist die Vorlage eines Belegs eines elektronischen Aufzeichnungs-
+   systems mit Kassenfunktion, der die Angaben nach § 6 KassenSichV beinhaltet, nicht zwingend
+    Seite 5 von 6
+
+   erforderlich. In diesem Fall ist der Rechnung der Zahlungsbeleg über die unbare Zahlung beizu-
+   fügen, soweit die unbare Zahlungsweise nicht auf der Rechnung vermerkt ist.
+17 Werden für Gäste eines Betriebs Verzehrgutscheine ausgegeben, gegen deren Vorlage die Besu-
+   cher auf Rechnung des Betriebs in einem Bewirtungsbetrieb bewirtet werden, reicht für den
+   Betriebsausgabenabzug die Vorlage der Abrechnung über die Verzehrgutscheine aus.
+
+    3. Elektronische, digitale oder digitalisierte Bewirtungsrechnungen und –belege
+
+    Für die vollständige elektronische Abbildung der Nachweisvoraussetzungen gilt Folgendes:
+
+18 Die Rechnung über die Bewirtung in einem Bewirtungsbetrieb kann dem Steuerpflichtigen in
+   digitaler Form übermittelt werden (als E-Rechnung nach § 14 Absatz 1 Satz 3 und 6 UStG oder als
+   sonstige Rechnung nach § 14 Absatz 1 Satz 4 UStG in einem anderen elektronischen Format).
+   Eine Bewirtungsrechnung in Papierform kann vom Steuerpflichtigen digitalisiert werden
+   (digitalisierte Bewirtungsrechnung).
+19 Der Eigenbeleg wird vom Steuerpflichtigen digital erstellt oder digitalisiert (digitaler oder digi-
+   talisierter Eigenbeleg). Die erforderliche Autorisierung ist durch den Steuerpflichtigen durch eine
+   elektronische Unterschrift oder eine elektronische Genehmigung der entsprechenden Angaben
+   zu gewährleisten; die Angaben dürfen im Nachhinein nicht undokumentiert geändert werden
+   können.
+20 Ein digitaler oder digitalisierter Eigenbeleg muss digital mit der Bewirtungsrechnung oder dem
+   Kassenbeleg über die Bewirtung zusammengefügt werden. Für den Betriebsausgabenabzug ist es
+   ausreichend, wenn ausschließlich ein Verweis vom digitalen oder digitalisierten Eigenbeleg auf
+   die digitale oder digitalisierte Bewirtungsrechnung oder den Kassenbeleg über die Bewirtung
+   angebracht wird. Eine elektronische Verknüpfung (z. B. eindeutiger Index, Barcode oder sonstige
+   Verknüpfung mit einem Dokumentenmanagementsystem) ist zulässig. Es liegt dabei in der Ver-
+   antwortung des Steuerpflichtigen, die Zuordnung des Eigenbeleges zu der entsprechenden
+   Bewirtungsrechnung oder dem entsprechenden Kassenbeleg über die Bewirtung sicherzustellen.
+   Lässt sich einer Bewirtungsrechnung kein Bewirtungsbeleg zuordnen, sind die erforderlichen
+   Angaben nicht erbracht und der Betriebsausgabenabzug ist zu versagen. Die geforderten Anga-
+   ben können auch in digitaler Form auf der digitalen oder digitalisierten Bewirtungsrechnung,
+   einem visualisierten Dokument der E-Rechnung oder einem digitalen oder digitalisierten
+   Kassenbeleg über die Bewirtung angebracht werden.
+21 Wird nur die digitale oder digitalisierte Bewirtungsrechnung digital aufbewahrt und der Eigen-
+   beleg in Papierform erstellt und aufbewahrt, gilt Rn. 20 entsprechend. Die eineindeutige Zuord-
+   nung der Belege aus beiden getrennten Ablagen muss stets gewährleistet sein.
+22 Die Nachweiserfordernisse des § 4 Absatz 5 Satz 1 Nummer 2 Satz 2 und 3 EStG sind als erfüllt
+   anzusehen, wenn
+   • der Steuerpflichtige zeitnah einen elektronischen Eigenbeleg mit den gesetzlich erforder-
+         lichen Angaben erstellt oder die gesetzlich erforderlichen Angaben zeitnah auf der digitalen
+         oder digitalisierten Bewirtungsrechnung elektronisch ergänzt,
+   • der Zeitpunkt der Erstellung oder Ergänzung im Dokument elektronisch aufgezeichnet
+         wird,
+    Seite 6 von 6
+
+    •    das erstellte Dokument oder die Ergänzung der Bewirtungsrechnung vom Steuerpflichtigen
+         digital signiert oder genehmigt wird,
+    •    der Zeitpunkt der Signierung oder Genehmigung elektronisch aufgezeichnet wird,
+    •    das erstellte Dokument – bei Bewirtung in einer Gaststätte nach § 4 Absatz 5 Satz 1 Num-
+         mer 2 Satz 3 EStG zusammen mit der digitalen oder digitalisierten Bewirtungsrechnung (z. B.
+         durch einen gegenseitigen Verweis) oder mit der elektronischen Bewirtungsrechnung (z. B.
+         durch einen Verweis auf dem Dokument auf die elektronische Rechnung) – oder die ergänz-
+         te Bewirtungsrechnung elektronisch aufbewahrt wird und
+    •    bei den genannten Vorgängen die Grundsätze zur ordnungsmäßigen Führung und Aufbe-
+         wahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum
+         Datenzugriff (GoBD) des BMF-Schreibens vom 28. November 2019 (BStBl I S. 1269, insbeson-
+         dere Rzn. 36 ff., 45 ff., 58 ff., 107 ff., 125 ff., 130 ff., 136 ff. und 156 ff.), zuletzt geändert durch
+         BMF-Schreiben vom 14. Juli 2025 (BStBl I S. 1502) erfüllt und die jeweils angewandten Ver-
+         fahren in der Verfahrensdokumentation beschrieben (Rz. 151 ff. der GoBD) werden.
+
+    4. Bewirtungen im Ausland
+
+23 § 4 Absatz 5 Satz 1 Nummer 2 EStG unterscheidet nicht, ob die Bewirtung im Inland oder im Aus-
+   land stattgefunden hat. Die dort genannten Anforderungen gelten daher auch bei Auslandsbe-
+   wirtungen. Die Anforderungen der R 4.10 Absatz 5 bis 9 EStR sind grundsätzlich auch bei Bewir-
+   tungen im Ausland zu erfüllen. Wird jedoch glaubhaft gemacht, dass eine detaillierte, maschinell
+   erstellte und elektronisch aufgezeichnete Rechnung nicht zu erhalten war, genügt in Ausnahme-
+   fällen die ausländische Rechnung, auch wenn sie diesen Anforderungen nicht voll entspricht.
+   Liegt im Ausnahmefall nur eine handschriftlich erstellte ausländische Rechnung vor, hat der
+   Steuerpflichtige glaubhaft zu machen, dass im jeweiligen ausländischen Staat keine Verpflich-
+   tung zur Erstellung maschineller Belege besteht.
+
+    Dieses Schreiben wird im Bundessteuerblatt Teil I veröffentlicht.
+
+    Im Auftrag
+
+
+
+    Dieses Dokument wurde elektronisch erstellt und ist ohne Unterschrift gültig.
+
