@@ -1,11 +1,16 @@
 ---
 name: de-freelancer-tax
-description: German tax knowledge base for freelancers (Freiberufler) and the self-employed (Gewerbetreibende). Use for EStG/UStG/GewStG questions - Freiberufler vs. Gewerbe classification, Kleinunternehmerregelung, deductibility of expenses, GWG/AfA, home office, quarterly VAT. Also handles /status, /deduct, /optimize, /quarterly.
+description: German tax suite for individuals and small businesses - Kleinunternehmer, Freiberufler, Gewerbetreibende, employees with side income, GmbH/UG owners, landlords, investors/crypto, start-ups. Covers EStG, UStG, GewStG, KStG, AO with statute text and BMF letters. Use for classification, VAT, deductions, depreciation, planning, deadlines. Commands /status /profile /deduct /optimize /quarterly /calendar /compare /found.
 ---
 
-# DE-Freelancer-Tax v1.0
+# DE-Tax-Suite v1.1 (skill name `de-freelancer-tax`)
+
+Scope: the whole range of German individual and small-business taxpayers, not only Kleinunternehmer. First place the user with `playbooks/00-router.md`, then load the matching playbook(s). Modules A-F below are the shared reference.
 
 Anchor all logic in EStG, UStG and GewStG. Give advice in English and append the German legal term in bold, e.g. profit-and-loss statement (**Einnahmen-Überschuss-Rechnung - EÜR**).
+
+## Playbooks
+`playbooks/`: 00-router, kleinunternehmer, freiberufler, gewerbetreibende, nebentaetigkeit-arbeitnehmer, gmbh-ug, vermietung, kapital-krypto, gruendung-checklist, jahreskalender. Load only what applies.
 
 ## Rules of engagement
 1. **Context first.** Never calculate or give a definitive strategy until the profile variables below are known. Ask for the missing ones.
@@ -16,7 +21,7 @@ Anchor all logic in EStG, UStG and GewStG. Give advice in English and append the
    - Annual revenue estimate (EUR)
    - Marital status: single | married
    - Church tax: kirchensteuerpflichtig yes | no
-3. Evaluate every input through Modules A-F automatically.
+3. Evaluate every input through Modules A-F and the matching playbook automatically.
 4. End every strategic response with the table and the disclaimer (see Output format).
 
 ## Commands
@@ -26,6 +31,10 @@ Anchor all logic in EStG, UStG and GewStG. Give advice in English and append the
 | `/deduct [expense]` | Assess deductibility under § 4 Abs. 4 EStG (**Betriebsausgaben**), incl. § 4 Abs. 5 limits (e.g. gifts, meals) and private-use share. |
 | `/optimize` | Top 3 legal tax-saving strategies for the current profile. Needs a complete profile. |
 | `/quarterly` | Checklist for the advance VAT return (**Umsatzsteuer-Voranmeldung**). Not applicable to Kleinunternehmer. |
+| `/profile` | Run the router: ask the minimum questions, name the taxpayer type(s), load playbooks. |
+| `/calendar` | Personalised deadlines for the year from `playbooks/jahreskalender.md`. |
+| `/compare [A] [B]` | Numeric comparison of two structures (e.g. Kleinunternehmer vs. Regelbesteuerung, sole trader vs. GmbH, EÜR vs. Bilanz). Needs profit and revenue; show assumptions and formulas. |
+| `/found` | Start-up checklist from `playbooks/gruendung-checklist.md`, tailored to the profile. |
 
 ## Module A - Classification (§ 18 EStG vs. GewStG)
 - Artistic, literary, teaching, scientific activity or a catalog profession (**Katalogberuf**: engineer, architect, lawyer, tax advisor, doctor, etc.) -> **Freiberufler**: no Gewerbesteuer, EÜR, Finanzamt registration only.
@@ -58,7 +67,8 @@ Based on net acquisition cost (**Anschaffungskosten**, net for regular taxpayers
 Verified against secondary sources on 2026-10-03; confirm against statute/BMF before relying on figures.
 1. **Investment deduction (Investitionsabzugsbetrag), § 7g EStG** - deduct up to 50% of planned acquisition cost of movable depreciable assets before purchase; profit limit EUR 200,000; investment by the end of the 3rd following financial year; sum of deductions in the year and 3 prior years max EUR 200,000 per business; electronic transmission required; plus special depreciation (**Sonderabschreibung**) up to 40% in the year of purchase and the 4 following years. Risk: if the investment does not happen, the deduction is reversed with retroactive effect and interest (§ 233a AO).
 2. **Declining-balance depreciation (degressive AfA), § 7 Abs. 2 EStG** - up to 30% (max 3x straight-line rate) for movable assets acquired after 30 June 2025 and before 1 Jan 2028. Not for buildings or intangibles.
-3. **Basic pension (Basisrente / Rürup), § 10 Abs. 1 Nr. 2b EStG** - 2026 maximum EUR 30,826 single / EUR 61,652 joint, 100% deductible as special expense (**Sonderausgaben**), reduced by statutory pension contributions. Contributions are locked in until retirement - advise on liquidity first.
+3. **Electric vehicles, § 7 Abs. 2a EStG** - business e-cars bought after 30 Jun 2025 and before 1 Jan 2028: write off 75% in year one, then 10%, 5%, 5%, 3%, 2%; not combinable with special depreciation. Private-use rule: 0.25% of list price per month if CO2-free and list price up to EUR 100,000 (§ 6 Abs. 1 Nr. 4 S. 2 Nr. 3 EStG, acquired 2019-2030).
+3a. **Basic pension (Basisrente / Rürup), § 10 Abs. 1 Nr. 2b EStG** - 2026 maximum EUR 30,826 single / EUR 61,652 joint, 100% deductible as special expense (**Sonderausgaben**), reduced by statutory pension contributions. Contributions are locked in until retirement - advise on liquidity first.
 4. **Trade tax credit (Gewerbesteuer-Anrechnung), § 35 EStG** - 4.0x the trade tax base amount (**Messbetrag**) is credited against income tax; with a local rate (Hebesatz) of about 400% trade tax is largely neutralised. Only for Gewerbetreibende.
 5. **Timing** - for EÜR taxpayers, income and expenses count when paid (**Zufluss-/Abflussprinzip**, § 11 EStG): pre-paying deductible expenses in December or deferring invoices is legal; recurring items within 10 days of year-end belong to the year they are due.
 6. **Health and long-term care insurance** are deductible as special expenses (**Vorsorgeaufwendungen**, § 10 EStG) at the basic-cover level - check before buying other plans.
