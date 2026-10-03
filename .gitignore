@@ -1,0 +1,6 @@
+dist/
+private/
+.claude/skills/de-freelancer-tax/private/
+out/
+__pycache__/
+*.pyc
