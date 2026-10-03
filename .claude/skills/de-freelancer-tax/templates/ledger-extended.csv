@@ -1,0 +1,5 @@
+date,description,category,net,vat,vat_treatment,partner_country,partner_vat_id
+2025-05-02,Consulting for FR client (fictional),einnahme_steuerpflichtig,2000.00,0,EU_B2B_SERVICE,FR,FR12345678901
+2025-05-03,Hosting from IE supplier (fictional),edv,100.00,0,13B_EU_SERVICE,IE,IE6388047V
+2025-06-10,US client consulting (fictional),einnahme_steuerpflichtig,3000.00,0,THIRD_SERVICE,US,
+2025-07-01,Domestic invoice (fictional),einnahme_steuerpflichtig,1000.00,190.00,DE19,DE,

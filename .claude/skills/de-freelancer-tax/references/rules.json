@@ -322,6 +322,76 @@
    "sec": "§ 3",
    "re": "3 300 Euro im Jahr",
    "used_in": "nebentaetigkeit"
+  },
+  {
+   "id": "served-4th-day",
+   "law": "AO",
+   "sec": "§ 122",
+   "re": "am vierten Tage nach der Aufgabe zur Post",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "einspruch-1m",
+   "law": "AO",
+   "sec": "§ 355",
+   "re": "innerhalb eines Monats nach Bekanntgabe",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "fristende-werktag",
+   "law": "AO",
+   "sec": "§ 108",
+   "re": "nächstfolgenden Werktags",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "afa-zwoelftel",
+   "law": "EStG",
+   "sec": "§ 7",
+   "re": "um jeweils ein Zwölftel",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "iab-3y",
+   "law": "EStG",
+   "sec": "§ 7g",
+   "re": "dritten auf das Wirtschaftsjahr des jeweiligen Abzugs folgenden Wirtschaftsjahres",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "zm-service-25",
+   "law": "UStG",
+   "sec": "§ 18a",
+   "re": "bis zum 25. Tag nach Ablauf jedes Kalendervierteljahres",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "14a-15th",
+   "law": "UStG",
+   "sec": "§ 14a",
+   "re": "fünfzehnten Tag des Monats",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "3a4-catalog",
+   "law": "UStG",
+   "sec": "§ 3a",
+   "re": "Ingenieur, Aufsichtsratsmitglied, Dolmetscher und Übersetzer",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "sammelposten",
+   "law": "EStG",
+   "sec": "§ 6",
+   "re": "Sammelposten gebildet werden",
+   "used_in": "state.py / bescheid.py / ustva.py"
+  },
+  {
+   "id": "ecar-window",
+   "law": "EStG",
+   "sec": "§ 7",
+   "re": "nach dem 30. Juni 2025 und vor dem 1. Januar 2028 angeschafft worden sind, können abweichend",
+   "used_in": "state.py / bescheid.py / ustva.py"
   }
  ]
 }

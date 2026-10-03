@@ -11,8 +11,8 @@ Home-wide instead of per project: copy the first two to `~/.claude/skills/` and 
 Or run `./package.sh` here to get `dist/de-tax-suite.zip` and unzip it at the root of the other project.
 
 ## 2. Requirements
-- Python 3.9+ (standard library only). `poppler-utils` (`pdftotext`) only for `refresh.py --apply`.
-- Verify after copying: `cd .claude/skills/de-freelancer-tax/tools && python3 -m unittest && python3 check_rules.py` (expect 33 tests OK, 45/45 rules).
+- Python 3.9+ (standard library only). Optional: `pip install openpyxl` for the Excel export (CSV files are written without it). `poppler-utils` (`pdftotext`) only for `refresh.py --apply`.
+- Verify after copying: `cd .claude/skills/de-freelancer-tax/tools && python3 -m unittest && python3 check_rules.py` (expect all tests OK and all rules matching).
 
 ## 3. Merge points with an existing invoices project
 | Item | Format | Where |
@@ -21,6 +21,10 @@ Or run `./package.sh` here to get `dist/de-tax-suite.zip` and unzip it at the ro
 | Ledger | CSV `date,description,category,net,vat` (amounts positive; Kleinunternehmer: gross in `net`, vat 0) | `tools/taxcalc.py` `EUR_LINES` lists the allowed categories |
 | Bank import | semicolon CSV with Buchungstag / Verwendungszweck / Betrag | `tools/bank_import.py` |
 | Review pack | intake JSON + ledger CSV -> markdown + CSVs | `tools/build_pack.py`, `templates/` |
+| State / assets / IAB | JSON per client | `tools/state.py` |
+| VAT form | ledger columns `vat_treatment, partner_country, partner_vat_id` -> Kz of USt 1 A 2026 | `tools/ustva.py` |
+| Notices | notice JSON | `tools/bescheid.py` |
+| Advisor review | `review.json` in the pack folder | `tools/review.py` |
 | Citations | any text -> every § must exist in `references/statutes` | `tools/cite_check.py` (exit 1 on invented citation) |
 
 If your invoices project already extracts invoice fields, map them to the JSON keys above and call `invoice_check.check(dict, kleinunternehmer=False)`. Map your expense categories to `EUR_LINES` (Anlage EÜR 2025 line + Kennzahl).

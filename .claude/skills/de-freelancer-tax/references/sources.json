@@ -1,14 +1,35 @@
-{"statutes": ["estg", "ustg_1980", "gewstg", "ao_1977", "stberg", "ustdv_1980", "solzg_1995", "estdv_1955", "kstg_1977", "gmbhg", "ksvg", "sgb_4", "sgb_6"],
+{
+ "statutes": [
+  "estg",
+  "ustg_1980",
+  "gewstg",
+  "ao_1977",
+  "stberg",
+  "ustdv_1980",
+  "solzg_1995",
+  "estdv_1955",
+  "kstg_1977",
+  "gmbhg",
+  "ksvg",
+  "sgb_4",
+  "sgb_6"
+ ],
  "bmf_pdfs": {
   "ustae-aktuell.txt": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/Umsatzsteuer-Anwendungserlass-aktuell.pdf?__blob=publicationFile&v=1",
   "bmf-2025-03-18-kleinunternehmer.txt": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2025-03-18-sonderregelung-kleinunternehmer.pdf?__blob=publicationFile&v=3",
-  "bmf-2025-10-15-e-rechnung.txt": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2025-10-15-einfuehrung-obligatorische-e-rechnung.pdf?__blob=publicationFile&v=3"},
+  "bmf-2025-10-15-e-rechnung.txt": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2025-10-15-einfuehrung-obligatorische-e-rechnung.pdf?__blob=publicationFile&v=3",
+  "bmf-2025-12-29-ustva-vordruck-2026.txt": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/2025-12-29-vordruckmuster-USt-voranmeldung-2026.pdf?__blob=publicationFile&v=7"
+ },
  "bmf_watch_pages": [
   "https://www.bundesfinanzministerium.de/Web/DE/Service/Publikationen/BMF_Schreiben/bmf_schreiben.html",
-  "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Umsatzsteuer/BMF_Schreiben_Allgemeines/bmf_schreiben_allgemeines.html"],
+  "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Umsatzsteuer/BMF_Schreiben_Allgemeines/bmf_schreiben_allgemeines.html"
+ ],
  "manual_each_year": [
   "New Anlage EÜR and other forms (published Aug/Sep for the coming year)",
   "Basisrente maximum (= knappschaftlicher Höchstbeitrag, announced for the year)",
   "Beitragsbemessungsgrenzen and Zusatzbeitrag for health insurance",
   "Bills in the legislative process with effective dates (dip.bundestag.de): e.g. tax-rate changes, e-invoice dates",
-  "Court rulings (bundesfinanzhof.de, rechtsprechung-im-internet.de) on classification and VAT"]}
+  "Court rulings (bundesfinanzhof.de, rechtsprechung-im-internet.de) on classification and VAT",
+  "New UStVA form (USt 1 A) for the next year (published in December) and update Kz mapping in tools/ustva.py"
+ ]
+}

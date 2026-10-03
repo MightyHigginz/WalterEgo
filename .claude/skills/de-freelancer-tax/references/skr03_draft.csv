@@ -1,0 +1,13 @@
+category;konto;bezeichnung;status
+einnahme_steuerpflichtig;8400;Erlöse 19% USt;UNVERIFIED - advisor confirm
+einnahme_kleinunternehmer;8195;Erlöse als Kleinunternehmer;UNVERIFIED - advisor confirm
+bewirtung;4650;Bewirtungskosten;UNVERIFIED - advisor confirm
+geschenke;4630;Geschenke abzugsfähig;UNVERIFIED - advisor confirm
+arbeitsmittel;4930;Bürobedarf;UNVERIFIED - advisor confirm
+telekom;4920;Telefon;UNVERIFIED - advisor confirm
+miete;4210;Miete;UNVERIFIED - advisor confirm
+werbung;4610;Werbekosten;UNVERIFIED - advisor confirm
+fortbildung;4945;Fortbildungskosten;UNVERIFIED - advisor confirm
+beratung;4950;Rechts- und Beratungskosten;UNVERIFIED - advisor confirm
+reisenebenkosten;4670;Reisekosten Unternehmer;UNVERIFIED - advisor confirm
+uebrige;4980;Sonstiger Betriebsbedarf;UNVERIFIED - advisor confirm

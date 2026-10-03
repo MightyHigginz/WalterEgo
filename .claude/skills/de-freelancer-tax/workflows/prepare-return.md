@@ -18,6 +18,11 @@ Request per activity: ledger/bank statements and invoices (-> `templates/ledger.
 | `invoice_check.py invoice.json` | § 14 Abs. 4 / § 33 UStDV completeness of an invoice (fields extracted by vision/OCR) |
 | `taxcalc.py eur|ustva|est|gewst|asset` | deterministic computations |
 | `build_pack.py intake.json ledger.csv OUT [--regular-vat] [--hebesatz N]` | writes review-pack.md, eur-lines.csv, ledger-annotated.csv, citation-check.txt |
+| `state.py DIR init|asset-add|register|suggest|iab-add|iab-status|close-year|years` | multi-year memory: assets, AfA, § 7g, loss carry-forward |
+| `ustva.py ledger.csv` | VAT form with Kennzahlen, ZM entries, flags |
+| `bescheid.py check|deadline|draft` | notice check, objection deadline, objection draft |
+| `review.py PACK_DIR init|list|set|signoff|report` | advisor review status and sign-off |
+| `export.py PACK_DIR` | Excel workbook (needs openpyxl, else CSVs) and draft booking CSV |
 | `cite_check.py FILE...` | every cited § / Abs. / Nr. must exist in the statute files; exit 1 on invented citations |
 
 ## Step 3 - Compute (reproducible)
@@ -45,3 +50,9 @@ Apply the advisor's corrections, rerun computations, update the pack. Filing and
 - No ELSTER submission; no authorised tax advice (§§ 2, 3 StBerG). The human advisor decides.
 - Forms other than Anlage EÜR (Mantelbogen, S, G, N, V, KAP, Vorsorgeaufwand, AV) are not loaded; line numbers for them must come from the advisor or the current ELSTER form.
 - The calculator estimates tax; the Finanzamt's calculation governs. Child allowances, loss carry, progression clause, Günstigerprüfung, Kirchensteuer details are simplified or not modelled.
+
+## Year 2 and later
+Keep `private/<client>/state.json`. At the end of each year run `state.py DIR close-year YEAR GESAMTBETRAG --profit P`; next year's pack picks up the asset register, open § 7g items and the loss carry-forward. Do not re-enter last year's purchases in the ledger.
+
+## When a notice arrives
+`bescheid.py deadline DATE` first (the objection period is short), then `bescheid.py check notice.json --return filed.json`, then ask the advisor whether to object; `bescheid.py draft` produces the German letter.

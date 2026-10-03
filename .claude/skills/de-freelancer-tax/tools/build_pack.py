@@ -1,20 +1,34 @@
 #!/usr/bin/env python3
 """Build the Steuerberater review pack.
-Usage: build_pack.py intake.json ledger.csv OUT_DIR [--regular-vat] [--hebesatz N]
+Usage: build_pack.py intake.json ledger.csv OUT_DIR [--regular-vat] [--hebesatz N] [--state CLIENT_DIR] [--vat-form]
+--state: add asset register (AfA, disposals) and carry-forward from the client's state.json.
+--vat-form: compute the UStVA form (Kz) from the ledger's vat_treatment column.
 Writes OUT_DIR/review-pack.md, eur-lines.csv, ledger-annotated.csv, citation-check.txt.
 Every number comes from a deterministic function in taxcalc.py; narrative text is checked
 with cite_check.py. Nothing is filed."""
 import json, csv, os, sys, argparse, subprocess
-import taxcalc as T, cite_check as C
+import taxcalc as T, cite_check as C, state as ST, ustva as UV, review as RV, export as EX
 
 def money(x): return f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".") if x is not None else "n/a"
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("intake"); ap.add_argument("ledger"); ap.add_argument("out")
     ap.add_argument("--regular-vat", action="store_true"); ap.add_argument("--hebesatz", type=float)
+    ap.add_argument("--state"); ap.add_argument("--vat-form", action="store_true")
     a = ap.parse_args(); os.makedirs(a.out, exist_ok=True)
     it = json.load(open(a.intake)); year = it.get("tax_year", 2025); p = it.get("person", {})
     eur = T.eur_from_ledger(a.ledger, a.regular_vat); va = T.ustva(a.ledger) if a.regular_vat else None
+    reg = None; carry_note = None
+    if a.state:
+        stt = ST.load(a.state); reg = ST.register(stt, year); L = reg["eur_lines"]
+        adj = -(L["Z33 AfA bewegliche WG"] + L["Z36 GWG (§ 6 Abs. 2)"] + L["Z37 Auflösung Sammelposten"] + L["Z38 Restbuchwert Abgänge"]) + L["Z19 Veräußerungserlöse"]
+        eur["gewinn"] = round(eur["gewinn"] + adj, 2); eur["hinweise"].append("asset register applied: the ledger must NOT contain purchase prices of capitalised assets; AfA, GWG, disposals come from the register (profit adjusted by %+.2f)" % adj)
+        carry_note = stt["loss_carryforward"]
+        io = ST.iab_check(stt, year)
+        for o in io["open"]: eur["hinweise"].append(f"IAB {o['id']} ({o['year']}, EUR {o['amount']:,.0f}): {o['action']}")
+        eur["hinweise"] += io["warnings"]
+    vf = UV.compute(a.ledger) if a.vat_form else None
+    if vf: eur["hinweise"] += vf["flags"]
     pd = it.get("private_deductions", {})
     sonder = sum(pd.get(k) or 0 for k in ("basisrente", "kv_pv_basis", "other_insurance", "donations"))
     joint = bool(p.get("spouse_joint_assessment"))
@@ -53,6 +67,14 @@ def main():
           f"| **Expected balance (payment +, refund -)** | **{money(est + sol + ksteuer - paid)}** | estimate |"]
     if gew: md.append(f"| Gewerbesteuer / § 35 credit / net | {money(gew['gewerbesteuer'])} / {money(gew['anrechnung_35_estg'])} / {money(gew['netto_belastung'])} | § 11 GewStG, § 35 EStG |")
     if va: md += ["", "## 1a. VAT (Regelbesteuerung) from the ledger", "| Item | EUR |", "| :--- | ---: |"] + [f"| {k} | {money(v)} |" for k, v in va.items()]
+    if reg:
+        md += ["", "## 1b. Asset register (AfA)", "| Asset | Method | Book start | Additions | AfA | Disposal | Book end |", "| :--- | :--- | ---: | ---: | ---: | ---: | ---: |"]
+        md += [f"| {r['description']} | {r['method']} | {money(r['buchwert_beginn'])} | {money(r['zugang'])} | {money(r['afa'])} | {money(r['abgang'])} | {money(r['buchwert_ende'])} |" for r in reg["rows"]]
+        md += ["", "EÜR lines from the register: " + "; ".join(f"{k} {money(v)}" for k, v in reg["eur_lines"].items())]
+        if carry_note and carry_note["amount"]: md += ["", f"Loss carry-forward at end of {carry_note['as_of_year']}: EUR {money(carry_note['amount'])} (§ 10d EStG) - not applied in the estimate above."]
+    if vf:
+        md += ["", "## 1c. VAT return USt 1 A 2026 (Kz)", "| Kennzahl / Zeile | Amount |", "| :--- | ---: |"] + [f"| {k} | {money(v)} |" for k, v in vf["form_usta_1a_2026"].items()]
+        if vf["zusammenfassende_meldung"]: md += ["", "Zusammenfassende Meldung entries: " + "; ".join(f"{z['country']} {z['vat_id']} {money(z['amount'])}" for z in vf["zusammenfassende_meldung"])]
     md += ["", "## 2. Anlage EÜR 2025 line map", "| Zeile / Kz | EUR |", "| :--- | ---: |"] + [f"| {k} | {money(v)} |" for k, v in eur["zeilen"].items()]
     if eur["nicht_abziehbar"]: md += ["", "Non-deductible portions (reported in the 'nicht abziehbar' columns):"] + [f"- {k}: {money(v)}" for k, v in eur["nicht_abziehbar"].items()]
     md += ["", "## 3. Open issues and flags (advisor please decide)"]
@@ -75,6 +97,9 @@ def main():
         r = csv.DictReader(src); w = csv.DictWriter(dst, fieldnames=r.fieldnames + ["eur_zeile", "kennzahl", "evidence"], delimiter=";"); w.writeheader()
         for row in r:
             z = T.EUR_LINES.get(row["category"]); row.update(eur_zeile=z[0] if z else "?", kennzahl=z[1] if z else "?", evidence=""); w.writerow(row)
-    print(f"pack written to {a.out}; citations invalid: {len(bad)}")
+    if reg: json.dump(reg, open(os.path.join(a.out, "register.json"), "w"), indent=1, ensure_ascii=False)
+    if vf: json.dump(vf, open(os.path.join(a.out, "ustva.json"), "w"), indent=1, ensure_ascii=False)
+    RV.init(a.out); ex = EX.export_pack(a.out)
+    print(f"pack written to {a.out}; citations invalid: {len(bad)}; exports: " + ", ".join(k for k, v in ex.items() if v))
     sys.exit(1 if bad else 0)
 if __name__ == "__main__": main()

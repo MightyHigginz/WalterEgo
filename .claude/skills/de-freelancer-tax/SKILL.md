@@ -36,6 +36,13 @@ Anchor all logic in EStG, UStG and GewStG. Give advice in English and append the
 | `/compare [A] [B]` | Numeric comparison of two structures (e.g. Kleinunternehmer vs. Regelbesteuerung, sole trader vs. GmbH, EÜR vs. Bilanz). Needs profit and revenue; show assumptions and formulas. |
 | `/prepare [year]` | Run `workflows/prepare-return.md`: intake, documents, computations with `tools/taxcalc.py`, cross-checks, then the advisor review pack. |
 | `/pack` | Fill `templates/review-pack.md` from the current data and list open issues for the human Steuerberater. |
+| `/assets` | Asset register and AfA across years (`tools/state.py register`, `suggest`); method choice per purchase. |
+| `/iab` | § 7g investment-deduction tracker: open amounts, deadlines, reversal risk (`state.py iab-status`). |
+| `/vat` | VAT return with ELSTER Kennzahlen from the 2026 form USt 1 A (`tools/ustva.py`), cross-border decisions (`ustva.sale` / `ustva.purchase`), ZM entries. |
+| `/bescheid` | Check a tax notice against the return, recompute the tax, deadline for objection (`tools/bescheid.py check`, `deadline`). |
+| `/einspruch` | German objection letter draft (`bescheid.py draft`); never send without the advisor. |
+| `/review` | Advisor workspace: items, status, comments, sign-off bound to the pack hash (`tools/review.py`). |
+| `/export` | Excel workbook and draft booking CSV for the advisor (`tools/export.py`, runs inside `build_pack.py`). |
 | `/found` | Start-up checklist from `playbooks/gruendung-checklist.md`, tailored to the profile. |
 
 ## Module A - Classification (§ 18 EStG vs. GewStG)
@@ -134,3 +141,10 @@ Use `workflows/prepare-return.md` (intake -> documents -> compute -> cross-check
 - `build_pack.py` stamps the source date in every pack and warns when sources are older than 45 days.
 - Not automatable (checked by hand each January, list in `references/sources.json`): new forms, Basisrente cap, health-insurance ceilings, pending bills, court rulings.
 - Rule for answers: if a user's tax year differs from the year the sources cover, say so.
+
+## Multi-year memory, VAT, notices, advisor workspace
+- **State** (`tools/state.py`, one `state.json` per client in `private/`): asset register with AfA methods (linear with monthly pro rata, declining balance 30%, e-vehicle 75/10/5/5/3/2, GWG, Sammelposten, computers 1 year), disposals, § 7g deductions with deadline and reversal, loss carry-forward (§ 10d), year summaries and year-on-year checks.
+- **VAT** (`tools/ustva.py`): ledger column `vat_treatment` maps to Kz of the 2026 form; `sale()`/`purchase()` give treatment, Kz, invoice wording and the statute for domestic, EU, third-country cases; ZM entries; flags for missing VAT IDs. Anything not clear returns `REVIEW`.
+- **Notices** (`tools/bescheid.py`): deemed service on the 4th day (§ 122 Abs. 2 AO, no weekend shift), objection deadline one month (§ 355 AO) moved to the next working day (§ 108 Abs. 3 AO); public holidays are not modelled.
+- **Advisor workspace** (`tools/review.py`): items from the pack's flags plus standing decisions; status open/accepted/changed/rejected/question; sign-off only when nothing is open and voided if the pack changes.
+- Ledger template with the extra columns: `templates/ledger-extended.csv`. Run the whole chain with `build_pack.py ... --state DIR --vat-form`.

@@ -55,3 +55,7 @@ Verdict in one line: a solid, honest **preparation and review-pack tool for a so
 | Producing a complete income-tax return for review | No (Defects 1-5) |
 | Filing anything | No - by design |
 | Serving other people's returns commercially | No - regulatory limits |
+
+## F. Update after the second build round (same day)
+Closed or reduced: multi-year memory and asset register (state.py), VAT return Kz mapping from the official 2026 form and cross-border helper (ustva.py), notice checker and objection draft (bescheid.py), advisor workspace with sign-off, Excel export and a draft booking CSV (review.py, export.py). Defect 3 (VAT Kz) is closed for the advance return; the annual VAT return, OSS and the EU sales list filing remain open. Still open: defects 1, 2, 4-11 (statute versions per year, 2025 tariff confirmation, other income-tax forms, full income-tax calculation, trade-tax add-backs, more BMF letters, case law, playbook verification, evals).
+Known limits of the new code: DATEV output is a draft without the official header and with an unverified SKR 03 account table; public holidays are not modelled in deadlines; AfA at disposal assumes months up to the disposal month; § 7g interplay with AfA basis is only reported, not applied.

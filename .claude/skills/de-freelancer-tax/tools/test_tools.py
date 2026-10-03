@@ -36,3 +36,21 @@ class Canary(unittest.TestCase):
             self.assertIn("kleinunt-prev", [r["id"] for r in check_rules.run()])
         finally:
             c._cache["UStG"]["§ 19"] = orig
+
+class Integration(unittest.TestCase):
+    def test_full_pack_with_state_vat_review_export(self):
+        import state as S
+        d = tempfile.mkdtemp(); cl = os.path.join(d, "cl"); S.save(cl, S.load(cl))
+        s = S.load(cl); s["assets"].append(dict(id="a", description="Camera", acquired="2025-08-10", cost=5000, method="degressive", life_years=7, business_use_pct=100)); S.save(cl, s)
+        led = os.path.join(d, "l.csv")
+        open(led, "w").write("date,description,category,net,vat,vat_treatment,partner_country,partner_vat_id\n2025-05-02,Consulting,einnahme_steuerpflichtig,2000,0,EU_B2B_SERVICE,FR,FR1\n")
+        out = os.path.join(d, "o")
+        rc = subprocess.run([sys.executable, os.path.join(HERE, "build_pack.py"), os.path.join(HERE, "..", "templates", "example-intake.json"), led, out, "--regular-vat", "--state", cl, "--vat-form"]).returncode
+        self.assertEqual(rc, 0)
+        for f in ("review-pack.md", "review.json", "register.json", "ustva.json", "datev-entwurf.csv", "citation-check.txt"): self.assertTrue(os.path.exists(os.path.join(out, f)), f)
+        pack = open(os.path.join(out, "review-pack.md"), encoding="utf-8").read()
+        self.assertIn("Kz21", pack); self.assertIn("625,00", pack)   # 5000 * 30% * 5/12
+        self.assertIn("Zusammenfassende Meldung", pack)
+        try:
+            import openpyxl; self.assertIn("Anlagenverzeichnis", openpyxl.load_workbook(os.path.join(out, "advisor-workbook.xlsx")).sheetnames)
+        except ImportError: self.assertTrue(os.path.isdir(os.path.join(out, "advisor-csv")))

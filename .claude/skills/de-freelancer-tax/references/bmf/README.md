@@ -7,6 +7,7 @@
 | bmf-2025-10-15-e-rechnung.txt | BMF 15 Oct 2025: mandatory e-invoice between domestic businesses; transition rules until 31 Dec 2027 |
 | bmf-2025-11-19-bewirtung.txt | BMF 19 Nov 2025: entertainment costs (Bewirtung) as Betriebsausgaben, incl. digital receipts (GZ IV C 6 - S 2145/00026/005/033) |
 | bmf-2025-08-29-anlage-euer-2025.txt | Form Anlage EÜR 2025 with line explanations |
+| bmf-2025-12-29-ustva-vordruck-2026.txt | BMF 29 Dec 2025: forms USt 1 A (VAT advance return 2026) and instructions; source of the Kennzahlen in tools/ustva.py |
 | ustae-aktuell.txt | Umsatzsteuer-Anwendungserlass, state 2 Jun 2026 (3.8 MB - search with grep, never read whole) |
 
 Not reachable: lsth./esth.bundesfinanzministerium.de (handbook subdomains were not on the allowlist). Add `lsth.bundesfinanzministerium.de` and `esth.bundesfinanzministerium.de` to the allowed domains to fetch the § 7g, home office and computer-useful-life letters.
