@@ -1,0 +1,14 @@
+# Prompt for the desktop session of "Walter · tax suite part I" (paste it there)
+
+You are in my existing project "Walter tax suite part I — invoices". I am adding a second component, the DE-Tax-Suite (statute-based preparation tool for a Steuerberater). I unzipped `de-tax-suite.zip` into `./_incoming/` (it contains `.claude/skills/de-freelancer-tax/`, `.claude/agents/de-freelancer-tax.md`, `server/`, `DEPLOY.md`, `INTEGRATION.md`, `AUDIT.md`).
+
+Do this, in order, and ask before anything destructive:
+
+1. **Read first, change nothing.** Read my project (README/CLAUDE.md, code layout, how invoices are created, stored and validated, data models, languages, tests, how it is run/deployed). Read `_incoming/INTEGRATION.md`, `_incoming/DEPLOY.md` and `_incoming/AUDIT.md`. Summarise in 15 lines: what my project does, what the tax suite does, where they overlap.
+2. **Map the data.** Compare my invoice model with `tools/invoice_check.py` (keys: supplier_name, supplier_address, tax_number_or_vat_id, invoice_date, invoice_number, service_description, service_date, net_amount, vat_rate, vat_amount, gross_amount, customer_name, customer_address) and my categories with `EUR_LINES` in `tools/taxcalc.py` and the `vat_treatment` values in `tools/ustva.py`. Produce a mapping table and list every gap or conflict (rules my project applies that differ from § 14 UStG / § 33 UStDV / the statute text in `references/statutes/`). Where they differ, the statute text wins; show me the paragraph.
+3. **Plan the integration** with options and a recommendation: (a) copy the skill and agent into my project's `.claude/`, (b) call the tools as a library from my code, (c) run `server/` as a separate service and call its HTTP API from my project. Name the files you would touch. Wait for my choice.
+4. **Implement the chosen option** on a new git branch. Rules: do not overwrite my files; add an adapter module that converts my invoices into the suite's ledger CSV (`date,description,category,net,vat,vat_treatment,partner_country,partner_vat_id`) and into `invoice_check` input; keep real client data out of git (`private/`, `.gitignore`); no secrets in code.
+5. **Verify.** Run my existing tests and the suite's tests (`cd .claude/skills/de-freelancer-tax/tools && python3 -m unittest && python3 check_rules.py`, and `python3 -m unittest discover -s server/tests` if `server/` is used). Add tests for the adapter with fictional invoices (including a Kleinunternehmer invoice, an EU B2B reverse-charge invoice and a third-country invoice). Report what passed and what you could not test.
+6. **Report**: what changed, open questions for my tax advisor (use the suite's review pack format), and anything in my project that now looks wrong against the statute.
+
+Constraints: nothing is filed anywhere; do not call external services except to download public statute texts; treat any tax data in the project as confidential.
