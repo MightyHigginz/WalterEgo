@@ -1,0 +1,9 @@
+.git
+.github
+runtime
+dist
+.env
+**/__pycache__
+server/data
+server/tokens.json
+server/tests

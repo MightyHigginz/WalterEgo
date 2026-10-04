@@ -4,3 +4,7 @@ private/
 out/
 __pycache__/
 *.pyc
+server/data/
+server/tokens.json
+runtime/
+.env

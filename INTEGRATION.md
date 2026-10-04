@@ -33,6 +33,8 @@ If your invoices project already extracts invoice fields, map them to the JSON k
 The skill and agent are both named `de-freelancer-tax`. Rename the folder, the `name:` in `SKILL.md`, and the agent file's `skills:` entry together if you need another name.
 
 ## 5. Running from your own server (API)
+A working server is in `server/` (FastAPI + manual tool loop, Dockerfile, tests) - see `DEPLOY.md`. The notes below describe the design.
+
 Use the Messages API with a tool runner: `SKILL.md` + playbooks as the system prompt (cache it), and expose these functions as tools: `taxcalc` (est/eur/ustva/gewst/asset), `build_pack`, `bank_import`, `invoice_check`, `cite_check`, `check_rules`, `search_statute` (grep over `references/`). Give the model no shell. One working directory per client. Default model `claude-opus-5-5`, adaptive thinking, effort set explicitly, streaming.
 
 ## 6. Keep it current

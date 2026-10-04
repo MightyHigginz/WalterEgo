@@ -1,0 +1,13 @@
+services:
+  tax:
+    build: .
+    env_file: .env                     # ANTHROPIC_API_KEY and TAX_* settings (chmod 600, never commit)
+    ports: ["127.0.0.1:8080:8080"]     # only the reverse proxy talks to it
+    volumes:
+      - ./runtime/data:/data           # client data: back up, encrypt the disk
+      - ./runtime/config:/config       # tokens.json
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
